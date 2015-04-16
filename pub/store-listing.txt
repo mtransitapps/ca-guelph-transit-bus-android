@@ -1,0 +1,52 @@
+Title: Guelph Transit Bus - MonTr…
+----------
+Short description:
+Guelph Transit buses for MonTransit BETA
+Schedule. News.
+----------
+What's new in this version?:
+Schedule from January 1, 2015 to December 31, 2015.
+Tweets from @guelphtransit.
+News from guelph.ca.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+----------
+Full description:
+This application adds Guelph Transit buses information to MonTransit BETA.
+
+This app contains the buses schedule (available offline) and news from guelph.ca and @guelphtransit on Twitter.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+
+Guelph Transit serves Guelph in Ontario, Canada.
+
+Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
+
+This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+
+You can install this application on the SD card but it is not recommended.
+
+The information comes from the GTFS file provided by City Of Guelph and Guelph Transit.
+http://open.guelph.ca/dataset/guelph-transit-gtfs-data/
+
+This application is free and open-source:
+https://github.com/mtransitapps/ca-guelph-transit-bus-android
+
+This app is not related with City Of Guelph and Guelph Transit.
+
+Permissions:
+- Other: required to read news from guelph.ca and Twitter
+----------
+Application type: Applications
+----------
+Category: Transportation
+----------
+Content rating: Low Maturity
+----------
+Website: https://github.com/mtransitapps/ca-guelph-transit-bus-android
+----------
+Email: mtransit.apps+GooglePlay@gmail.com
+----------
+Phone: 
+----------
+Privacy Policy:
