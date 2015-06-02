@@ -175,7 +175,7 @@
 306,'0306','Yorkshire St. N. / London Rd. W.',43.545548,-80.258462
 307,'0307','Westmount Rd. / Lourdes',43.547576,-80.266172
 308,'0308','Westmount Rd. / Division St.',43.550057,-80.269504
-309,'0309','St. Joseph''S Health Centre',43.548167,-80.266982
+309,'0309','St. Joseph''s Health Centre',43.548167,-80.266982
 310,'0310','Westmount Rd. / Speedvale Ave. W.',43.550132,-80.269632
 311,'0311','Kathleen St. / June Ave.',43.553416,-80.274223
 312,'0312','Bailey Ave. / Nicklin Rd.',43.556149,-80.273176
@@ -192,7 +192,7 @@
 323,'0323','Victoria Rd. N . / Delta St.',43.574215,-80.255175
 324,'0324','Victoria Rd. N. / Speedvale Ave. E.',43.57071,-80.250349
 325,'0325','Victoria Rd. N. / Eramosa Rd.',43.569232,-80.248344
-326,'0326','Victoria Rd. N. / St. Paul''S Church',43.566676,-80.244711
+326,'0326','Victoria Rd. N. / St. Paul''s Church',43.566676,-80.244711
 327,'0327','Eastview Rd. / Glenburnie Dr. Arrive',43.565338,-80.241265
 328,'0328','Eastview Rd. / Mountford Dr.',43.567369,-80.238478
 329,'0329','Eastview Rd. / Auden Rd.',43.567369,-80.238478
@@ -254,7 +254,7 @@
 387,'0387','Bailey Ave. / Kathleen St.',43.557298,-80.276217
 388,'0388','Kathleen St. / Speedvale Ave. W.',43.555549,-80.27256
 389,'0389','Westmount Rd. / Kimberley Dr.',43.553154,-80.274126
-390,'0390','St. Joseph''S Health Centre',43.549794,-80.269589
+390,'0390','St. Joseph''s Health Centre',43.549794,-80.269589
 391,'0391','Westmount Rd. / Division St.',43.550158,-80.270008
 392,'0392','Westmount Rd. / Lourdes',43.548554,-80.267786
 393,'0393','Westmount Rd. / London Rd. W.',43.545476,-80.263459
@@ -339,7 +339,7 @@
 541,'0541','Gordon St. / Dormie Lane',43.536904,-80.239148
 542,'0542','Gordon St. / Water St.',43.538124,-80.24088
 543,'0543','Gordon St. / Wellington St.',43.541072,-80.245274
-544,'0544','Gordon St. / Harvey''S',43.541884,-80.247619
+544,'0544','Gordon St. / Harvey''s',43.541884,-80.247619
 545,'0545','City Hall',43.543346,-80.249107
 546,'0546','Guelph Central Station',43.54518,-80.24605
 600,'0600','University Centre',43.5290634619,-80.2238410411
@@ -480,7 +480,7 @@
 1024,'1024','Paisley St. / Yorkshire St. N.',43.542516,-80.258347
 1025,'1025','Paisley St. / Glasgow St.',43.543289,-80.256822
 1026,'1026','Paisley St. / Norfolk St.',43.54513,-80.253188
-1027,'1027','St George''S Square IF Shoe Store',43.545578,-80.249017
+1027,'1027','St George''s Square IF Shoe Store',43.545578,-80.249017
 1028,'1028','Guelph Central Station',43.54518,-80.24605
 1100,'1100','Guelph Central Station',43.54518,-80.24605
 1101,'1101','Norfolk St. / Albion',43.544122,-80.25072
@@ -508,7 +508,7 @@
 1123,'1123','Paisley St. / Glasgow St.',43.543289,-80.256822
 1124,'1124','Paisley St. / Norfolk St.',43.54513,-80.253188
 1125,'1125','Guelph Central Station',43.54518,-80.24605
-1130,'1130','St George''S Square IF Shoe Store',43.545578,-80.249017
+1130,'1130','St George''s Square IF Shoe Store',43.545578,-80.249017
 1131,'1131','Marksham Rd. South Of Speedvale Ave. W.',43.5407,-80.292026
 1200,'1200','Guelph Central Station',43.54518,-80.24605
 1201,'1201','Wyndham St. / Pharmasave',43.545891,-80.249022
@@ -718,7 +718,7 @@
 2042,'2042','Paisley St. / Yorkshire St. N.',43.542516,-80.258347
 2043,'2043','Paisley St. / Glasgow St.',43.543289,-80.256822
 2044,'2044','Paisley St. / Norfolk St.',43.54513,-80.253188
-2045,'2045','St George''S Square IF Shoe Store',43.545578,-80.249017
+2045,'2045','St George''s Square IF Shoe Store',43.545578,-80.249017
 2046,'2046','Guelph Central Station',43.545848,-80.245409
 5000,'5000','University Dep',43.529524,-80.224506
 5001,'5001','Stone Rd. W. / Gordon St.',43.526145,-80.225538
