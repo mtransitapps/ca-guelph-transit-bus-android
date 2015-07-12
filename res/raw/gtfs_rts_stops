@@ -81,7 +81,7 @@
 203,'0203','Gordon St / Forbes Ave',43.537154,-80.239813
 204,'0204','Gordon St / Dean Ave',43.534009,-80.235469
 205,'0205','Gordon St / College Ave',43.531512,-80.231928
-206,'0206','University Ctr Depart',43.529973,-80.225014
+206,'0206','University Ctr Arrive',43.529973,-80.225014
 207,'0207','Stone Rd W / Edinburgh Rd S',43.520363,-80.233352
 208,'0208','Stone Rd W / Stone Rd Mall',43.517478,-80.237178
 209,'0209','659 Wellington St W',43.522836,-80.267662
@@ -91,7 +91,7 @@
 213,'0213','Elmira Rd / West Acres Dr',43.516248,-80.278614
 214,'0214','254 Elmira Rd',43.518995,-80.282143
 215,'0215','Elmira Rd / Stephanie Dr',43.521123,-80.287336
-216,'0216','Elmira Rd / Zehrs Depart',43.522818,-80.291611
+216,'0216','Elmira Rd / Zehrs Arrive',43.522818,-80.291611
 217,'0217','Elmira Rd / West End Community Ctr',43.523519,-80.293107
 218,'0218','Willow Rd / Flaherty Dr',43.527343,-80.296881
 219,'0219','Imperial Rd N / Willow Rd',43.528815,-80.29201
@@ -193,7 +193,7 @@
 324,'0324','Victoria Rd N / Speedvale Ave E',43.57071,-80.250349
 325,'0325','Victoria Rd N / Eramosa Rd',43.569232,-80.248344
 326,'0326','Victoria Rd N / St Paul''s Church',43.566676,-80.244711
-327,'0327','Eastview Rd / Glenburnie Dr Depart',43.565338,-80.241265
+327,'0327','Eastview Rd / Glenburnie Dr Arrive',43.565338,-80.241265
 328,'0328','Eastview Rd / Mountford Dr',43.567369,-80.238478
 329,'0329','Eastview Rd / Auden Rd',43.567369,-80.238478
 330,'0330','Eastview Rd / Summit Rdg Dr',43.572509,-80.231266
@@ -207,7 +207,7 @@
 338,'0338','Victoria Rd / York Rd',43.551612,-80.223573
 339,'0339','Stone Rd E / Victoria Rd S',43.539442,-80.207876
 340,'0340','Stone Rd E / Arbour Medical Ctr',43.533696,-80.21547
-341,'0341','University Ctr',43.530139,-80.22567
+341,'0341','University Ctr Arrive',43.530139,-80.22567
 342,'0342','Gordon St / Vet College',43.531442,-80.231459
 343,'0343','Gordon St / Macdonald Stewart Art Ctr',43.532842,-80.233321
 344,'0344','Gordon St / Dormie Ln',43.536904,-80.239148
@@ -302,7 +302,7 @@
 504,'0504','Gordon St / Forbes Ave',43.537154,-80.239813
 505,'0505','Gordon St / Dean Ave',43.534009,-80.235469
 506,'0506','Gordon St / College Ave',43.531512,-80.231928
-507,'0507','University Ctr',43.529524,-80.224506
+507,'0507','University Ctr Arrive',43.529524,-80.224506
 508,'0508','Gordon St / Stone Rd W',43.527351,-80.226173
 509,'0509','Gordon St / Harvard Rd',43.525457,-80.221185
 510,'0510','Gordon St / Kortright Rd',43.522309,-80.213484
@@ -701,7 +701,7 @@
 2025,'2025','265 Massey Rd',43.539372,-80.30302
 2026,'2026','Across From 251 Massey Rd',43.540367,-80.301948
 2027,'2027','Imperial Rd / Woodlawn Rd W',43.54361,-80.305658
-2028,'2028','Imperial Opposite Galaxy Cinema',43.545088,-80.307741
+2028,'','Imperial Opposite Galaxy Cinema Arrival',43.545088,-80.307741
 2029,'2029','190 Curtis Dr',43.549077,-80.306239
 2030,'2030','Curtis Dr / Regal Rd Needs Hardware',43.550951,-80.303922
 2031,'2031','Curtis Dr / Silvercreek Pkwy',43.553665,-80.299931
