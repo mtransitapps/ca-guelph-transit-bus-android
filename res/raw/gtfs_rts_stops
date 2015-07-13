@@ -91,7 +91,7 @@
 213,'0213','Elmira Rd / West Acres Dr',43.516248,-80.278614
 214,'0214','254 Elmira Rd',43.518995,-80.282143
 215,'0215','Elmira Rd / Stephanie Dr',43.521123,-80.287336
-216,'0216','Elmira Rd / Zehrs Arrive',43.522818,-80.291611
+216,'0216','Elmira Rd / Zehrs',43.522818,-80.291611
 217,'0217','Elmira Rd / West End Community Ctr',43.523519,-80.293107
 218,'0218','Willow Rd / Flaherty Dr',43.527343,-80.296881
 219,'0219','Imperial Rd N / Willow Rd',43.528815,-80.29201
@@ -139,14 +139,14 @@
 269,'0269','Imperial Rd N / Woodlawn Rd W',43.543469,-80.305876
 270,'0270','Massey Rd / Imperial Rd N',43.54088,-80.301154
 271,'0271','Royal Rd / Massey Rd',43.542591,-80.298386
-272,'0272','Royal / ARC Industries Arrival',43.539916,-80.294588
+272,'0272','Royal / ARC Industries',43.539916,-80.294588
 273,'0273','Imperial Rd N / Speedvale Ave W',43.536579,-80.296369
 274,'0274','Imperial Rd N / Thornhill Dr',43.534097297637125,-80.29473
 275,'0275','Imperial Rd N / Kipling Ave',43.530773,-80.294209
 276,'0276','Imperial Rd N / Willow Rd',43.528717,-80.292316
 277,'0277','Willow Rd / Flaherty Dr',43.527623,-80.296562
 278,'0278','Elmira Rd / West End Community Ctr',43.523239,-80.293729
-279,'0279','Elmira Rd.At Paisley Arrival',43.521827,-80.289727
+279,'0279','Elmira Rd.At Paisley',43.521827,-80.289727
 280,'0280','Elmira Rd / Fresh Mdw Way',43.518734,-80.281997
 281,'0281','Elmira Rd / Rochelle Dr',43.516498,-80.279127
 282,'0282','Fife Rd / Elmira Rd',43.513936,-80.275264
@@ -193,7 +193,7 @@
 324,'0324','Victoria Rd N / Speedvale Ave E',43.57071,-80.250349
 325,'0325','Victoria Rd N / Eramosa Rd',43.569232,-80.248344
 326,'0326','Victoria Rd N / St Paul''s Church',43.566676,-80.244711
-327,'0327','Eastview Rd / Glenburnie Dr Arrive',43.565338,-80.241265
+327,'0327','Eastview Rd / Glenburnie Dr',43.565338,-80.241265
 328,'0328','Eastview Rd / Mountford Dr',43.567369,-80.238478
 329,'0329','Eastview Rd / Auden Rd',43.567369,-80.238478
 330,'0330','Eastview Rd / Summit Rdg Dr',43.572509,-80.231266
@@ -701,7 +701,7 @@
 2025,'2025','265 Massey Rd',43.539372,-80.30302
 2026,'2026','Across From 251 Massey Rd',43.540367,-80.301948
 2027,'2027','Imperial Rd / Woodlawn Rd W',43.54361,-80.305658
-2028,'','Imperial Opposite Galaxy Cinema Arrival',43.545088,-80.307741
+2028,'','Imperial Opposite Galaxy Cinema',43.545088,-80.307741
 2029,'2029','190 Curtis Dr',43.549077,-80.306239
 2030,'2030','Curtis Dr / Regal Rd Needs Hardware',43.550951,-80.303922
 2031,'2031','Curtis Dr / Silvercreek Pkwy',43.553665,-80.299931
