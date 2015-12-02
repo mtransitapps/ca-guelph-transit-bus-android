@@ -8,35 +8,46 @@
     <string name="rss_encoding">UTF-8</string>
     <string-array name="rss_feeds">
         <item>http://guelph.ca/category/getting-around/guelph-transit/feed/</item>
+        <item>http://guelph.ca/service-interruption/feed/</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
         <item>@string/gtfs_rts_short_name</item>
+        <item>Guelph (Service interruptions)</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
-        <item>http://guelph.ca/</item>
+        <item>http://guelph.ca/category/getting-around/guelph-transit/</item>
+        <item>http://guelph.ca/service-interruption/</item>
     </string-array>
     <string-array name="rss_feeds_label">
+        <item>guelph.ca</item>
         <item>guelph.ca</item>
     </string-array>
     <string-array name="rss_feeds_lang">
         <item>@string/news_provider_language_unknown_show_all</item>
+        <item>@string/news_provider_language_unknown_show_all</item>
     </string-array>
     <string-array name="rss_feeds_colors">
+        <item>@string/rss_color</item>
         <item>@string/rss_color</item>
     </string-array>
     <string-array name="rss_feeds_target">
         <item>@string/rss_target_for_poi_authority</item>
+        <item>@string/rss_target_for_poi_authority</item>
     </string-array>
     <integer-array name="rss_feeds_severity">
+        <item>@integer/news_provider_severity_info_agency</item>
         <item>@integer/news_provider_severity_info_agency</item>
     </integer-array>
     <string-array name="rss_feeds_noteworthy">
         <item>@string/news_provider_noteworthy_long_term</item>
+        <item>@string/news_provider_noteworthy_info</item>
     </string-array>
     <string-array name="rss_feeds_ignore_guid">
         <item>false</item>
+        <item>false</item>
     </string-array>
     <string-array name="rss_feeds_ignore_link">
+        <item>false</item>
         <item>false</item>
     </string-array>
 </resources>
