@@ -117,55 +117,55 @@
 239,'0239','160 Woolwich St',43.548027,-80.25168
 240,'0240','St George''s Sq IF Shoe Store',43.545578,-80.249017
 241,'0241','GCS East Plat1',43.546132,-80.245169
-250,'0250','GCS West Plat14',43.544994,43.544994
-251,'0251','Wyndham St @ Bank Of Nova Scotia',43.546353,43.546353
-252,'0252','Woolwich St @ Cardigan St',43.548237,43.548237
-253,'0253','Woolwich St @ Norwich St',43.548768,43.548768
-254,'0254','Woolwich St @ London Rd',43.550097,43.550097
-255,'0255','Woolwich St @ Kerr St',43.551876,43.551876
-256,'0256','Woolwich St @ Powell St',43.553105,43.553105
-257,'0257','Woolwich St @ Earl St',43.555942,43.555942
-258,'0258','Woolwich St @ Speedvale Ave',43.558046,43.558046
-259,'0259','Woolwich St @ Evergreen',43.560206,43.560206
-260,'0260','Woolwich St @ Marilyn Dr',43.561971,43.561971
-261,'0261','Woodlawn @ Wal-Mart',43.562707,43.562707
-262,'0262','Woodlawn Rd W @ Nicklin Rd',43.561001,43.561001
-263,'0263','Woodlawn Rd W @ Edinburgh Rd N',43.558487,43.558487
-264,'0264','Woodlawn Rd W @ Dawson Rd',43.556826,43.556826
-265,'0265','Woodlawn Rd W @ Arrow Rd',43.554156,43.554156
-266,'0266','Woodlawn Rd W @ Silvercreek Pkwy N',43.551719,43.551719
-267,'0267','Woodlawn Rd W @ Regal Rd',43.548709,43.548709
-268,'0268','Woodlawn Rd W @ Royal Rd',43.546404,43.546404
-269,'0269','Imperial Rd N @ Woodlawn Rd W',43.543469,43.543469
-270,'0270','Massey Rd @ Imperial Rd N',43.54088,43.54088
-271,'0271','Royal Rd @ Massey Rd',43.542591,43.542591
-272,'0272','Royal @ ARC Industries',43.539916,43.539916
-273,'0273','Imperial Rd N @ Speedvale Ave W',43.536579,43.536579
-274,'0274','Imperial Rd N @ Thornhill Dr',43.534097297637125,43.534097297637125
-275,'0275','Imperial Rd N @ Kipling Ave',43.530773,43.530773
-276,'0276','Imperial Rd N @ Willow Rd',43.528717,43.528717
-277,'0277','Willow Rd @ Flaherty Dr',43.527623,43.527623
-278,'0278','Elmira Rd @ West End Community Ctr',43.523239,43.523239
-279,'0279','Elmira Rd.@ Paisley',43.521827,43.521827
-280,'0280','Elmira Rd @ Fresh Mdw Way',43.518734,43.518734
-281,'0281','Elmira Rd @ Rochelle Dr',43.516498,43.516498
-282,'0282','Fife Rd @ Elmira Rd',43.513936,43.513936
-283,'0283','Fife Rd @ Gateway Dr',43.513878,43.513878
-284,'0284','26 Fife Rd @ Coop',43.517774,43.517774
-285,'0285','Wellington St W @ Wastewater Treatment Plant',43.522874,43.522874
-286,'0286','Stone Rd W @ Scottsdale Dr',43.516108,43.516108
-287,'0287','372 Stone Rd W',43.517578,43.517578
-288,'0288','292 Stone Rd W',43.519475,43.519475
-289,'0289','252 Stone Rd W',43.521656,43.521656
-290,'0290','95 Stone Rd W',43.524669,43.524669
-291,'0291','UC North Plat7',43.529621,43.529621
-292,'0292','Gordon St @ Vet College',43.531442,43.531442
-293,'0293','Gordon St @ Macdonald Stewart Art Ctr',43.532842,43.532842
-294,'0294','Gordon St @ Dormie Ln',43.536904,43.536904
-295,'0295','Gordon St @ Water St',43.538124,43.538124
-296,'0296','Wellington St @ Wellington Plz',43.54144,43.54144
-297,'0297','Wyndham St @ Fountain St',43.543369,43.543369
-298,'0298','GCS West Plat14',43.544994,43.544994
+250,'0250','GCS West Plat14',43.544994,-80.246272
+251,'0251','Wyndham St @ Bank Of Nova Scotia',43.546353,-80.249408
+252,'0252','Woolwich St @ Cardigan St',43.548237,-80.251774
+253,'0253','Woolwich St @ Norwich St',43.548768,-80.254949
+254,'0254','Woolwich St @ London Rd',43.550097,-80.256667
+255,'0255','Woolwich St @ Kerr St',43.551876,-80.259149
+256,'0256','Woolwich St @ Powell St',43.553105,-80.260808
+257,'0257','Woolwich St @ Earl St',43.555942,-80.264759
+258,'0258','Woolwich St @ Speedvale Ave',43.558046,-80.267588
+259,'0259','Woolwich St @ Evergreen',43.560206,-80.270552
+260,'0260','Woolwich St @ Marilyn Dr',43.561971,-80.272989
+261,'0261','Woodlawn @ Wal-Mart',43.562707,-80.280776
+262,'0262','Woodlawn Rd W @ Nicklin Rd',43.561001,-80.283145
+263,'0263','Woodlawn Rd W @ Edinburgh Rd N',43.558487,-80.286658
+264,'0264','Woodlawn Rd W @ Dawson Rd',43.556826,-80.288946
+265,'0265','Woodlawn Rd W @ Arrow Rd',43.554156,-80.292659
+266,'0266','Woodlawn Rd W @ Silvercreek Pkwy N',43.551719,-80.295956
+267,'0267','Woodlawn Rd W @ Regal Rd',43.548709,-80.300078
+268,'0268','Woodlawn Rd W @ Royal Rd',43.546404,-80.303239
+269,'0269','Imperial Rd N @ Woodlawn Rd W',43.543469,-80.305876
+270,'0270','Massey Rd @ Imperial Rd N',43.54088,-80.301154
+271,'0271','Royal Rd @ Massey Rd',43.542591,-80.298386
+272,'0272','Royal @ ARC Industries',43.539916,-80.294588
+273,'0273','Imperial Rd N @ Speedvale Ave W',43.536579,-80.296369
+274,'0274','Imperial Rd N @ Thornhill Dr',43.534097,-80.29473
+275,'0275','Imperial Rd N @ Kipling Ave',43.530773,-80.294209
+276,'0276','Imperial Rd N @ Willow Rd',43.528717,-80.292316
+277,'0277','Willow Rd @ Flaherty Dr',43.527623,-80.296562
+278,'0278','Elmira Rd @ West End Community Ctr',43.523239,-80.293729
+279,'0279','Elmira Rd.@ Paisley',43.521827,-80.289727
+280,'0280','Elmira Rd @ Fresh Mdw Way',43.518734,-80.281997
+281,'0281','Elmira Rd @ Rochelle Dr',43.516498,-80.279127
+282,'0282','Fife Rd @ Elmira Rd',43.513936,-80.275264
+283,'0283','Fife Rd @ Gateway Dr',43.513878,-80.275337
+284,'0284','26 Fife Rd @ Coop',43.517774,-80.270061
+285,'0285','Wellington St W @ Wastewater Treatment Plant',43.522874,-80.267234
+286,'0286','Stone Rd W @ Scottsdale Dr',43.516108,-80.238548
+287,'0287','372 Stone Rd W',43.517578,-80.236634
+288,'0288','292 Stone Rd W',43.519475,-80.234214
+289,'0289','252 Stone Rd W',43.521656,-80.231263
+290,'0290','95 Stone Rd W',43.524669,-80.22719
+291,'0291','UC North Plat7',43.529621,-80.224531
+292,'0292','Gordon St @ Vet College',43.531442,-80.231459
+293,'0293','Gordon St @ Macdonald Stewart Art Ctr',43.532842,-80.233321
+294,'0294','Gordon St @ Dormie Ln',43.536904,-80.239148
+295,'0295','Gordon St @ Water St',43.538124,-80.24088
+296,'0296','Wellington St @ Wellington Plz',43.54144,-80.244076
+297,'0297','Wyndham St @ Fountain St',43.543369,-80.245192
+298,'0298','GCS West Plat14',43.544994,-80.246272
 300,'0300','GCS East Plat5',43.545865,-80.245275
 301,'0301','Wyndham St @ Pharmasave',43.545837,-80.24892
 302,'0302','Woolwich St @ Cardigan St',43.548237,-80.251774
@@ -508,6 +508,7 @@
 1123,'1123','Paisley St @ Glasgow St',43.543289,-80.256822
 1124,'1124','Paisley St @ Norfolk St',43.54513,-80.253188
 1125,'1125','GCS East Plat2',43.546222,-80.245
+1126,'1126','Guelph Central Sta Platform 22',43.545701,-80.245985
 1130,'1130','St George''s Sq IF Shoe Store',43.545578,-80.249017
 1131,'1131','Marksham Rd South Of Speedvale Ave W',43.5407,-80.292026
 1200,'1200','GCS East Plat19',43.545705,-80.245534
@@ -539,38 +540,38 @@
 1226,'1226','Eramosa Rd @ Arthur St',43.549165,-80.250571
 1227,'1227','Wyndham @ IF Shoe Store',43.545578,-80.249017
 1228,'1228','GCS Mid Plat7',43.545579,-80.245541
-1300,'1300','GCS East Plat18',43.545569,43.545569
-1301,'1301','Wyndham St @ Bank Of Nova Scotia',43.546353,43.546353
-1302,'1302','Eramosa Rd Bridge',43.549049,43.549049
-1303,'1303','Eramosa Rd @ St Catharines St',43.555657,43.555657
-1304,'1304','Metcalfe St @ Eramosa Rd',43.556495,43.556495
-1305,'1305','Metcalfe St @ Lemon St',43.554757,43.554757
-1306,'1306','Metcalfe St @ Palmer St',43.553027,43.553027
-1307,'1307','Metcalfe St @ Grange St',43.551686,43.551686
-1308,'1308','Grange St @ Clara St',43.552399,43.552399
-1309,'1309','Grange St @ Louisa St',43.553898,43.553898
-1310,'1310','Grange St @ Stevenson St',43.554622,43.554622
-1311,'1311','Cassino Ave @ William St',43.558258,43.558258
-1312,'1312','Cassino Ave @ Palermo Cres',43.561453,43.561453
-1313,'1313','Cassino Ave @ Hadati Rd',43.562886,43.562886
-1314,'1314','Hadati Rd @ Yeats Crt',43.564485,43.564485
-1315,'1315','Hadati Rd @ Victoria Rd N',43.563892,43.563892
-1316,'1316','Eastview Rd @ Glenburnie Dr',43.565338,43.565338
-1317,'1317','Eastview Rd @ Mountford Dr',43.567369,43.567369
-1318,'1318','Starwood Dr @ Watt St',43.5688,43.5688
-1319,'1319','Watt St @ Auden Rd',43.567812,43.567812
-1320,'1320','Auden Rd @ Eastview Rd',43.568895,43.568895
-1321,'1321','Eastview Rd @ Mountford Dr',43.567393,43.567393
-1322,'1322','Eastview Rd @ VictoriaRd',43.565032,43.565032
-1323,'1323','211 Victoria Rd N',43.567067,43.567067
-1324,'1324','Eramosa Rd @ Orchard Cres',43.567445,43.567445
-1325,'1325','Eramosa Rd @ Meyer Dr',43.562369,43.562369
-1326,'1326','Eramosa Rd @ Stevenson St',43.559599,43.559599
-1327,'1327','Eramosa Rd @ Metcalfe St',43.55668,43.55668
-1328,'1328','Eramosa Rd @ Arthur St',43.549165,43.549165
-1329,'1329','Wyndham @ IF Shoe Store',43.545578,43.545578
-1330,'1330','GCS West Plat8',43.544948,43.544948
-1331,'1331','Eramosa Rd @ Delhi St',43.553911,43.553911
+1300,'1300','GCS East Plat18',43.545569,-80.245657
+1301,'1301','Wyndham St @ Bank Of Nova Scotia',43.546353,-80.249408
+1302,'1302','Eramosa Rd Bridge',43.549049,-80.250385
+1303,'1303','Eramosa Rd @ St Catharines St',43.555657,-80.249466
+1304,'1304','Metcalfe St @ Eramosa Rd',43.556495,-80.248788
+1305,'1305','Metcalfe St @ Lemon St',43.554757,-80.24636
+1306,'1306','Metcalfe St @ Palmer St',43.553027,-80.243956
+1307,'1307','Metcalfe St @ Grange St',43.551686,-80.242077
+1308,'1308','Grange St @ Clara St',43.552399,-80.240832
+1309,'1309','Grange St @ Louisa St',43.553898,-80.238831
+1310,'1310','Grange St @ Stevenson St',43.554622,-80.237833
+1311,'1311','Cassino Ave @ William St',43.558258,-80.240005
+1312,'1312','Cassino Ave @ Palermo Cres',43.561453,-80.235804
+1313,'1313','Cassino Ave @ Hadati Rd',43.562886,-80.234699
+1314,'1314','Hadati Rd @ Yeats Crt',43.564485,-80.237757
+1315,'1315','Hadati Rd @ Victoria Rd N',43.563892,-80.240402
+1316,'1316','Eastview Rd @ Glenburnie Dr',43.565338,-80.241265
+1317,'1317','Eastview Rd @ Mountford Dr',43.567369,-80.238478
+1318,'1318','Starwood Dr @ Watt St',43.5688,-80.231242
+1319,'1319','Watt St @ Auden Rd',43.567812,-80.232014
+1320,'1320','Auden Rd @ Eastview Rd',43.568895,-80.234823
+1321,'1321','Eastview Rd @ Mountford Dr',43.567393,-80.238771
+1322,'1322','Eastview Rd @ VictoriaRd',43.565032,-80.241989
+1323,'1323','211 Victoria Rd N',43.567067,-80.244971
+1324,'1324','Eramosa Rd @ Orchard Cres',43.567445,-80.248003
+1325,'1325','Eramosa Rd @ Meyer Dr',43.562369,-80.248754
+1326,'1326','Eramosa Rd @ Stevenson St',43.559599,-80.249172
+1327,'1327','Eramosa Rd @ Metcalfe St',43.55668,-80.249581
+1328,'1328','Eramosa Rd @ Arthur St',43.549165,-80.250571
+1329,'1329','Wyndham @ IF Shoe Store',43.545578,-80.249017
+1330,'1330','GCS West Plat8',43.544948,-80.246214
+1331,'1331','Eramosa Rd @ Delhi St',43.553911,-80.249938
 1400,'1400','GCS East Plat22',43.545701,-80.245985
 1401,'1401','Elizabeth St @ Duke St',43.5479,-80.241684
 1402,'1402','65 Elizabeth St',43.549022,-80.240144
@@ -597,6 +598,7 @@
 1423,'1423','Elizabeth St @ Huron St',43.549593,-80.239644
 1424,'1424','Elizabeth St @ Red Chevron Club',43.548577,-80.240986
 1425,'1425','GCS East Plat4',43.546,-80.245156
+1426,'1426','Guelph Central Sta Platform 15',43.545114,-80.246058
 1500,'1500','UC South Loop Plat0',43.528394,-80.223366
 1501,'1501','Stone Rd W @ Gordon St',43.526145,-80.225538
 1503,'1503','175 Stone Rd W',43.522019,-80.231231

@@ -728,6 +728,7 @@
 'weekday',20151229
 'weekday',20151230
 'weekday',20151231
+'stat',20160101
 'weekday',20160101
 'saturday',20160102
 'sunday',20160103
@@ -773,6 +774,7 @@
 'weekday',20160212
 'saturday',20160213
 'sunday',20160214
+'stat',20160215
 'weekday',20160215
 'weekday',20160216
 'weekday',20160217
@@ -812,9 +814,11 @@
 'weekday',20160322
 'weekday',20160323
 'weekday',20160324
+'stat',20160325
 'weekday',20160325
 'saturday',20160326
 'sunday',20160327
+'stat',20160328
 'weekday',20160328
 'weekday',20160329
 'weekday',20160330
@@ -871,6 +875,7 @@
 'weekday',20160520
 'saturday',20160521
 'sunday',20160522
+'stat',20160523
 'weekday',20160523
 'weekday',20160524
 'weekday',20160525
@@ -910,6 +915,7 @@
 'weekday',20160628
 'weekday',20160629
 'weekday',20160630
+'stat',20160701
 'weekday',20160701
 'saturday',20160702
 'sunday',20160703
@@ -941,6 +947,7 @@
 'weekday',20160729
 'saturday',20160730
 'sunday',20160731
+'stat',20160801
 'weekday',20160801
 'weekday',20160802
 'weekday',20160803
@@ -976,6 +983,7 @@
 'weekday',20160902
 'saturday',20160903
 'sunday',20160904
+'stat',20160905
 'weekday',20160905
 'weekday',20160906
 'weekday',20160907
@@ -1011,6 +1019,7 @@
 'weekday',20161007
 'saturday',20161008
 'sunday',20161009
+'stat',20161010
 'weekday',20161010
 'weekday',20161011
 'weekday',20161012
@@ -1087,7 +1096,9 @@
 'weekday',20161222
 'weekday',20161223
 'saturday',20161224
+'stat',20161225
 'sunday',20161225
+'stat',20161226
 'weekday',20161226
 'weekday',20161227
 'weekday',20161228
