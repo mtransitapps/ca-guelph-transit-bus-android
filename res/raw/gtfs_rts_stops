@@ -171,7 +171,7 @@
 327,'0327','Eastview Rd @ Glenburnie Dr',43.565338,-80.241265
 328,'0328','Eastview Rd @ Mountford Dr',43.567369,-80.238478
 329,'0329','Eastview Rd @ Auden Rd',43.56915,-80.236103
-330,'0330','Eastview Rd @ Summit Rdg Dr',43.572509,80.231266
+330,'0330','Eastview Rd @ Summit Rdg Dr',43.572509,-80.231266
 331,'0331','Watson Pkwy N @ Grange Rd',43.573297,-80.217729
 332,'0332','Watson Pkwy N @ Fleming Rd',43.570527,-80.21377
 333,'0333','Watson Pkwy N @ Library',43.566571,-80.211793
@@ -269,8 +269,8 @@
 429,'0429','Victoria Rd N Opposite Trillium Waldorf',43.544269,-80.240211
 430,'0430','Inverness Dr @ Wilton Rd',43.546132,-80.245023
 431,'0431','Watson Pkwy N @ Eastview Rd',43.560934,-80.207705
-497,'0497','Watson Pkwy North @ Shackleton Dr Southbound',43.575754,80.221147
-498,'0498','Watson Pkwy N @ Shackleton Dr',43.576696,80.222152
+497,'0497','Watson Pkwy North @ Shackleton Dr Southbound',43.575754,-80.221147
+498,'0498','Watson Pkwy N @ Shackleton Dr',43.576696,-80.222152
 499,'0499','Watson Pkwy N @ Eastview Rd',43.577741,-80.223885
 500,'0500','GCS East Plat4',43.546,-80.245156
 501,'0501','Gordon St @ Nottingham St',43.541833,-80.248111

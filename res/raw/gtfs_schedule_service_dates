@@ -241,13 +241,9 @@
 'saturday',20150829
 'sunday',20150830
 'weekday',20150831
-'unisession',20150901
 'weekday',20150901
-'unisession',20150902
 'weekday',20150902
-'unisession',20150903
 'weekday',20150903
-'unisession',20150904
 'weekday',20150904
 'saturday',20150905
 'sunday',20150906
@@ -461,7 +457,6 @@
 'unisession',20151231
 'weekday',20151231
 '5asession',20160101
-'stat',20160101
 'unisession',20160101
 'weekday',20160101
 'saturday',20160102
@@ -569,7 +564,6 @@
 'saturday',20160213
 'sunday',20160214
 '5asession',20160215
-'stat',20160215
 'unisession',20160215
 'weekday',20160215
 '5asession',20160216
@@ -667,13 +661,11 @@
 'unisession',20160324
 'weekday',20160324
 '5asession',20160325
-'stat',20160325
 'unisession',20160325
 'weekday',20160325
 'saturday',20160326
 'sunday',20160327
 '5asession',20160328
-'stat',20160328
 'unisession',20160328
 'weekday',20160328
 '5asession',20160329
@@ -810,7 +802,6 @@
 'saturday',20160521
 'sunday',20160522
 '5asession',20160523
-'stat',20160523
 'unisession',20160523
 'weekday',20160523
 '5asession',20160524
@@ -908,7 +899,6 @@
 'unisession',20160630
 'weekday',20160630
 '5asession',20160701
-'stat',20160701
 'unisession',20160701
 'weekday',20160701
 'saturday',20160702
@@ -982,7 +972,6 @@
 'saturday',20160730
 'sunday',20160731
 '5asession',20160801
-'stat',20160801
 'unisession',20160801
 'weekday',20160801
 '5asession',20160802
