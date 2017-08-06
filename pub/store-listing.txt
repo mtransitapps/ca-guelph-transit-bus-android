@@ -5,7 +5,7 @@ Guelph Transit buses for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from May 7, 2017 to September 2, 2017.
+Schedule from September 3, 2017 to January 6, 2018.
 Tweets from @guelphtransit.
 News from guelph.ca.
 ----------
