@@ -52,9 +52,7 @@
 221,'221','Imperial @ Westwood Northbound',43.53511,-80.294715
 223,'223','Royal @ ARC Industries Northbound',43.540183,-80.294327
 224,'224','Royal @ Massey Northbound',43.542772,-80.297936
-225,'225','Massey @ Imperial Westbound',43.541183,-80.301386
 226,'226','Imperial @ Woodlawn Northbound',43.543594,-80.305703
-227,'227','Woodlawn @ Royal Eastbound',43.545949,-80.303478
 228,'228','Woodlawn @ Regal Eastbound',43.548771,-80.299613
 229,'229','Woodlawn @ Silvercreek Eastbound',43.551744,-80.295572
 230,'230','Woodlawn @ Dawson Eastbound',43.556084,-80.289687
@@ -79,9 +77,7 @@
 265,'265','Woodlawn @ Arrow Westbound',43.554467,-80.292162
 266,'266','Woodlawn @ Silvercreek Westbound',43.551694,-80.295963
 267,'267','Woodlawn @ Regal Westbound',43.548725,-80.300025
-268,'268','Woodlawn @ Royal Westbound',43.546384,-80.303232
 269,'269','Imperial @ Woodlawn Southbound',43.543553,-80.305874
-270,'270','Massey @ Imperial Eastbound',43.541132,-80.301177
 271,'271','Royal @ Massey Southbound',43.542697,-80.298096
 272,'272','Royal @ ARC Industries Southbound',43.54011,-80.294494
 273,'273','Imperial @ Speedvale Southbound',43.53663,-80.296316
@@ -336,7 +332,6 @@
 1225,'1225','Delhi @ Eramosa Southbound',43.553192,-80.250307
 1302,'1302','Eramosa @ Arthur Eastbound',43.549144,-80.250382
 1303,'1303','Eramosa @ Saint Catharine Eastbound',43.555635,-80.249516
-1309,'1309','Grange @ Louisa Eastbound',43.553898,-80.238851
 1311,'1311','Cassino @ William Eastbound',43.558253,-80.240035
 1312,'1312','Cassino @ Palermo Eastbound',43.561435,-80.235853
 1313,'1313','Cassino @ Hadati Northbound',43.562827,-80.234711
@@ -461,7 +456,6 @@
 5832,'5832','University Ctr South Loop Platform 5',43.529154,-80.223879
 5833,'5833','Guelph Central Sta Platform 1',43.546108,-80.245165
 5834,'5834','University Ctr North Loop Platform 10',43.529975,-80.22503
-5835,'5835','Guelph Central Sta Platform 14',43.544983,-80.246264
 5836,'5836','University Ctr North Loop Platform 7',43.529619,-80.224547
 5837,'5837','Guelph Central Sta Platform 5',43.54586,-80.245275
 5838,'5838','University Ctr North Loop Platform 9',43.529848,-80.224868
@@ -480,7 +474,6 @@
 5851,'5851','Guelph Central Sta Platform 4',43.545995,-80.245154
 5852,'5852','Guelph Central Sta Platform 7',43.545593,-80.245533
 5853,'5853','Guelph Central Sta Platform 8',43.544946,-80.246212
-5856,'5856','Guelph Central Sta Platform 15',43.545099,-80.246049
 5857,'5857','Guelph Central Sta Platform 18',43.545545,-80.245645
 5858,'5858','Guelph Central Sta Platform 19',43.54569,-80.245525
 5859,'5859','Guelph Central Sta Platform 20',43.545837,-80.245397
@@ -488,15 +481,42 @@
 5861,'5861','Watson @ Eastview Southbound',43.577734,-80.22389
 5862,'5862','Watson @ Shackleton Northbound',43.576674,-80.222137
 5863,'5863','Elmira @ Massey Northbound',43.534489,-80.308687
-5865,'5865','Willow West Mall',43.541601,-80.280933
-5867,'5867','229 Dublin Northbound',43.547888,-80.257446
-5880,'5880','Vlg By The Arboretum',43.529475,-80.214153
-5882,'5882','Stone Rd Mall Platform 4',43.518223,-80.239911
-5912,'5912','Woodlawn Smart Centres',43.56517,-80.280747
+5866,'5866','Woodlawn Smart Centres Platform 3',43.563916,-80.281733
 5915,'5915','Victoria @ Arkell Southbound',43.524191,-80.185886
+5917,'5917','Woodlawn Smart Centres Platform 4',43.563774,-80.281538
+5926,'5926','Edinburgh @ Water Southbound',43.532016,-80.250932
+5934,'5934','Edinburgh @ Municipal Southbound',43.530091,-80.248243
+5936,'5936','Wellington @ Dublin Westbound',43.539743,-80.245219
+5937,'5937','Wellington @ Holliday Westbound',43.536888,-80.249781
+5939,'5939','Wellington @ Imperial Westbound',43.520271,-80.268687
+5940,'5940','West Acres @ Northwood Eastbound',43.519455,-80.276747
+5941,'5941','West Acres @ Imperial Eastbound',43.521836,-80.27365
+5942,'5942','Speedvale @ Conestoga College Eastbound',43.538935,-80.294854
+5955,'5955','Farley @ Eugene Southbound',43.503947,-80.190267
 5957,'5957','Watson @ Shackleton Southbound',43.575754,-80.221147
+5958,'5958','Speedvale @ Edinburgh Westbound',43.552344,-80.276704
+5959,'5959','Edinburgh @ Burns Northbound',43.555449,-80.283132
+5960,'5960','Suffolk @ Norfolk Eastbound',43.547459,-80.254496
+5963,'5963','Clair @ Clairfields Westbound',43.495003,-80.196332
+5965,'5965','Clairfields @ Gordon Eastbound',43.504586,-80.194221
+5971,'5971','Goodwin @ Wilkie Eastbound',43.508803,-80.180853
+5972,'5972','Goodwin @ Laughland Eastbound',43.511183,-80.177728
+5973,'5973','Farley @ Clair Southbound',43.50195,-80.187621
+5976,'5976','Beaver Mdw @ Goodwin Northbound',43.506465,-80.183165
+5982,'5982','College @ McGilvray Eastbound',43.528004,-80.238039
+5985,'5985','Norfolk @ Suffolk Southbound',43.54772,-80.25454
+5986,'5986','College @ University Westbound',43.527996,-80.238239
+6003,'6003','Norfolk @ Oxford Northbound',43.545915,-80.252594
+6004,'6004','230 Silvercreek Southbound',43.544058,-80.286154
+6006,'6006','Clairfields @ Doyle Northbound',43.495714,-80.196603
+6007,'6007','Clairfields @ Gibbs Northbound',43.499479,-80.199412
+6008,'6008','Clairfields @ Paulstown Eastbound',43.502671,-80.197247
+6011,'6011','Edinburgh @ Lonsdale Northbound',43.553539,-80.28045
 6013,'6013','Victoria @ Macalister Southbound',43.532866,-80.197672
+6014,'6014','Goodwin @ Samuel Eastbound',43.513307,-80.175244
+6023,'6023','Speedvale @ Conestoga College Westbound',43.53845,-80.295801
 6027,'6027','Edinburgh @ Wellington Southbound',43.533863,-80.253289
+6029,'6029','Imperial @ West End Community Ctr Southbound',43.525522,-80.289016
 6030,'6030','London @ Exhibition Westbound',43.548193,-80.259576
 6043,'6043','Edinburgh @ Thornberry Southbound',43.518926,-80.232639
 6044,'6044','Elmira @ Tovell Southbound',43.525584,-80.296821
@@ -505,5 +525,22 @@
 6047,'6047','Stone Rd Mall Platform 2',43.518573,-80.239441
 6048,'6048','Stone Rd Mall Platform 3',43.518398,-80.239676
 6052,'6052','Grange @ Clythe Crk Eastbound',43.572347,-80.219782
+6055,'6055','Woodlawn Smart Centres Platform 1',43.564,-80.281559
+6056,'6056','Stevenson @ Ln Southbound',43.559562,-80.246855
+6058,'6058','Clair @ Gordon Westbound',43.499321,-80.190518
+6060,'6060','Edinburgh @ Wellington Northbound',43.533958,-80.253141
+6062,'6062','Lowes @ Gordon Eastbound',43.508978,-80.194126
 6063,'6063','Woolwich @ Heffernan Northbound',43.547361,-80.247088
+6065,'6065','1027 Gordon Southbound',43.520856,-80.21033
+6066,'6066','Wellington @ Holliday Eastbound',43.536786,-80.249784
+6067,'6067','Macdonell @ Wilson Eastbound',43.544152,-80.24915
+6068,'6068','Macdonell @ Wilson Westbound',43.544135,-80.249638
+6075,'6075','Scottsdale @ College Southbound',43.523129,-80.24362
+6076,'6076','Scottsdale @ Wilsonview Southbound',43.520811,-80.239921
+6077,'6077','Arkell @ Amos Westbound',43.519665,-80.191606
 6078,'6078','Woodlawn @ Hanlon Westbound',43.550367,-80.297764
+6079,'6079','Wellington @ Dublin Eastbound',43.538992,-80.245345
+6082,'6082','Norfolk @ Suffolk Northbound',43.547857,-80.254465
+6083,'6083','Imperial @ Paisley Southbound',43.525044,-80.286631
+6085,'6085','Gordon @ Oak Southbound',43.523926,-80.216658
+6086,'6086','Woolwich @ Verney Southbound',43.55541,-80.264272
