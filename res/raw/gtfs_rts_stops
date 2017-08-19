@@ -491,7 +491,7 @@
 5939,'5939','Wellington @ Imperial Westbound',43.520271,-80.268687
 5940,'5940','West Acres @ Northwood Eastbound',43.519455,-80.276747
 5941,'5941','West Acres @ Imperial Eastbound',43.521836,-80.27365
-5942,'5942','Speedvale @ Conestoga College Eastbound',43.538935,-80.294854
+5942,'5942','Speedvale @ Conestoga College Eastbound',43.538425,-80.295835
 5955,'5955','Farley @ Eugene Southbound',43.503947,-80.190267
 5957,'5957','Watson @ Shackleton Southbound',43.575754,-80.221147
 5958,'5958','Speedvale @ Edinburgh Westbound',43.552344,-80.276704
@@ -503,9 +503,9 @@
 5972,'5972','Goodwin @ Laughland Eastbound',43.511183,-80.177728
 5973,'5973','Farley @ Clair Southbound',43.50195,-80.187621
 5976,'5976','Beaver Mdw @ Goodwin Northbound',43.506465,-80.183165
-5982,'5982','College @ McGilvray Eastbound',43.528004,-80.238039
+5982,'5982','College @ McGilvray Eastbound',43.527995,-80.238036
 5985,'5985','Norfolk @ Suffolk Southbound',43.54772,-80.25454
-5986,'5986','College @ University Westbound',43.527996,-80.238239
+5986,'5986','College @ University Westbound',43.527934,-80.238322
 6003,'6003','Norfolk @ Oxford Northbound',43.545915,-80.252594
 6004,'6004','230 Silvercreek Southbound',43.544058,-80.286154
 6006,'6006','Clairfields @ Doyle Northbound',43.495714,-80.196603
@@ -516,7 +516,7 @@
 6014,'6014','Goodwin @ Samuel Eastbound',43.513307,-80.175244
 6023,'6023','Speedvale @ Conestoga College Westbound',43.53845,-80.295801
 6027,'6027','Edinburgh @ Wellington Southbound',43.533863,-80.253289
-6029,'6029','Imperial @ West End Community Ctr Southbound',43.525522,-80.289016
+6029,'6029','Imperial @ West End Community Ctr Southbound',43.525543,-80.289038
 6030,'6030','London @ Exhibition Westbound',43.548193,-80.259576
 6043,'6043','Edinburgh @ Thornberry Southbound',43.518926,-80.232639
 6044,'6044','Elmira @ Tovell Southbound',43.525584,-80.296821
@@ -531,16 +531,16 @@
 6060,'6060','Edinburgh @ Wellington Northbound',43.533958,-80.253141
 6062,'6062','Lowes @ Gordon Eastbound',43.508978,-80.194126
 6063,'6063','Woolwich @ Heffernan Northbound',43.547361,-80.247088
-6065,'6065','1027 Gordon Southbound',43.520856,-80.21033
+6065,'6065','1027 Gordon Southbound',43.520852,-80.210319
 6066,'6066','Wellington @ Holliday Eastbound',43.536786,-80.249784
 6067,'6067','Macdonell @ Wilson Eastbound',43.544152,-80.24915
 6068,'6068','Macdonell @ Wilson Westbound',43.544135,-80.249638
 6075,'6075','Scottsdale @ College Southbound',43.523129,-80.24362
 6076,'6076','Scottsdale @ Wilsonview Southbound',43.520811,-80.239921
-6077,'6077','Arkell @ Amos Westbound',43.519665,-80.191606
+6077,'6077','Arkell @ Amos Westbound',43.519692,-80.191558
 6078,'6078','Woodlawn @ Hanlon Westbound',43.550367,-80.297764
-6079,'6079','Wellington @ Dublin Eastbound',43.538992,-80.245345
+6079,'6079','Wellington @ Dublin Eastbound',43.538884,-80.245393
 6082,'6082','Norfolk @ Suffolk Northbound',43.547857,-80.254465
 6083,'6083','Imperial @ Paisley Southbound',43.525044,-80.286631
 6085,'6085','Gordon @ Oak Southbound',43.523926,-80.216658
-6086,'6086','Woolwich @ Verney Southbound',43.55541,-80.264272
+6086,'6086','Woolwich @ Verney Southbound',43.555269,-80.264078
