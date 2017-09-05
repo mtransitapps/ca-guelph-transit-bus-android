@@ -15,7 +15,7 @@
 118,'118','College @ Lynnwood Eastbound',43.524333,-80.243006
 119,'119','College @ Smith Ln Eastbound',43.529659,-80.235779
 120,'120','College @ MacDonald Eastbound',43.533559,-80.230508
-121,'121','East Ring Rd @ Dundas Ln Southbound',43.535043,-80.224853
+121,'121','East Ring Rd @ Dundas Ln Southbound',43.53482,-80.224483
 122,'122','East Ring Rd @ Arboretum Rd Southbound',43.533251,-80.22234
 154,'154','College @ Caledonia Westbound',43.529779,-80.23581
 155,'155','College @ Edinburgh Westbound',43.525008,-80.242347
@@ -543,4 +543,3 @@
 6082,'6082','Norfolk @ Suffolk Northbound',43.547857,-80.254465
 6083,'6083','Imperial @ Paisley Southbound',43.525044,-80.286631
 6085,'6085','Gordon @ Oak Southbound',43.523926,-80.216658
-6086,'6086','Woolwich @ Verney Southbound',43.555269,-80.264078
