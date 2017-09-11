@@ -52,7 +52,9 @@
 221,'221','Imperial @ Westwood Northbound',43.53511,-80.294715
 223,'223','Royal @ ARC Industries Northbound',43.540183,-80.294327
 224,'224','Royal @ Massey Northbound',43.542772,-80.297936
+225,'225','Massey @ Imperial Westbound',43.541183,-80.301386
 226,'226','Imperial @ Woodlawn Northbound',43.543594,-80.305703
+227,'227','Woodlawn @ Royal Eastbound',43.545949,-80.303478
 228,'228','Woodlawn @ Regal Eastbound',43.548771,-80.299613
 229,'229','Woodlawn @ Silvercreek Eastbound',43.551744,-80.295572
 230,'230','Woodlawn @ Dawson Eastbound',43.556084,-80.289687
@@ -77,7 +79,9 @@
 265,'265','Woodlawn @ Arrow Westbound',43.554467,-80.292162
 266,'266','Woodlawn @ Silvercreek Westbound',43.551694,-80.295963
 267,'267','Woodlawn @ Regal Westbound',43.548725,-80.300025
+268,'268','Woodlawn @ Royal Westbound',43.546384,-80.303232
 269,'269','Imperial @ Woodlawn Southbound',43.543553,-80.305874
+270,'270','Massey @ Imperial Eastbound',43.541132,-80.301177
 271,'271','Royal @ Massey Southbound',43.542697,-80.298096
 272,'272','Royal @ ARC Industries Southbound',43.54011,-80.294494
 273,'273','Imperial @ Speedvale Southbound',43.53663,-80.296316
@@ -531,6 +535,7 @@
 6060,'6060','Edinburgh @ Wellington Northbound',43.533958,-80.253141
 6062,'6062','Lowes @ Gordon Eastbound',43.508978,-80.194126
 6063,'6063','Woolwich @ Heffernan Northbound',43.547361,-80.247088
+6064,'6064','Watt @ Auden Eastbound',43.56785,-80.231784
 6065,'6065','1027 Gordon Southbound',43.520852,-80.210319
 6066,'6066','Wellington @ Holliday Eastbound',43.536786,-80.249784
 6067,'6067','Macdonell @ Wilson Eastbound',43.544152,-80.24915
