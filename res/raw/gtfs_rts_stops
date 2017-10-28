@@ -487,6 +487,7 @@
 5863,'5863','Elmira @ Massey Northbound',43.534489,-80.308687
 5915,'5915','Victoria @ Arkell Southbound',43.524191,-80.185886
 5917,'5917','Woodlawn Smart Centres Southbound',43.563774,-80.281538
+5923,'5923','Woodlawn @ Arrow Eastbound',43.553295,-80.293471
 5926,'5926','Edinburgh @ Water Southbound',43.532016,-80.250932
 5934,'5934','Edinburgh @ Municipal Southbound',43.530091,-80.248243
 5936,'5936','Wellington @ Dublin Westbound',43.539743,-80.245219
@@ -548,3 +549,5 @@
 6085,'6085','Gordon @ Oak Southbound',43.523926,-80.216658
 6094,'6094','Norfolk @ Cork Southbound',43.544561,-80.251457
 6095,'6095','1750 Gordon Southbound',43.50205,-80.191559
+6097,'6097','Woolwich @ Verney Southbound',43.55557,-80.264491
+6098,'6098','Clair @ Hawkins Eastbound',43.502975,-80.185293
