@@ -190,6 +190,8 @@
 428,'428','Ontario @ Manitoba Westbound',43.54483,-80.237181
 429,'429','Ontario @ Neeve Westbound',43.544258,-80.240207
 501,'501','Gordon @ Nottingham Southbound',43.541823,-80.24806
+514,'514','Arkell @ Gordon Eastbound',43.514149,-80.198736
+515,'515','Arkell @ Ridgeway Eastbound',43.516217,-80.196018
 516,'516','Summerfield @ Amsterdam Southbound',43.517582,-80.190917
 517,'517','Summerfield @ Cummings Southbound',43.51552,-80.18855
 518,'518','Summerfield @ Bright Eastbound',43.516422,-80.184692
@@ -549,5 +551,6 @@
 6085,'6085','Gordon @ Oak Southbound',43.523926,-80.216658
 6094,'6094','Norfolk @ Cork Southbound',43.544561,-80.251457
 6095,'6095','1750 Gordon Southbound',43.50205,-80.191559
+6096,'6096','Elmira @ Tovell Northbound',43.525705,-80.296706
 6097,'6097','Woolwich @ Verney Southbound',43.55557,-80.264491
 6098,'6098','Clair @ Hawkins Eastbound',43.502975,-80.185293
