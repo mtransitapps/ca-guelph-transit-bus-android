@@ -7,16 +7,16 @@
     <bool name="rss_copy_to_file_instead_of_streaming">false</bool>
     <string name="rss_encoding">UTF-8</string>
     <string-array name="rss_feeds">
-        <item>http://guelph.ca/category/getting-around/guelph-transit/feed/</item>
-        <item>http://guelph.ca/service-interruption/feed/</item>
+        <item>https://guelph.ca/category/getting-around/guelph-transit/feed/</item>
+        <item>https://guelph.ca/service-interruption/feed/</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
         <item>@string/gtfs_rts_short_name</item>
         <item>Guelph (Service interruptions)</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
-        <item>http://guelph.ca/category/getting-around/guelph-transit/</item>
-        <item>http://guelph.ca/service-interruption/</item>
+        <item>https://guelph.ca/category/getting-around/guelph-transit/</item>
+        <item>https://guelph.ca/service-interruption/</item>
     </string-array>
     <string-array name="rss_feeds_label">
         <item>guelph.ca</item>
