@@ -473,7 +473,7 @@
 5845,'5845','University Ctr South Loop Platform 4',43.529039,-80.223716
 5846,'5846','University Ctr North Loop Platform 8',43.529735,-80.224697
 5847,'5847','University Ctr North Loop Platform 11',43.530091,-80.225189
-5848,'5848','University Ctr North Loop Platform 12',43.530197,-80.225339
+5848,'5848','University Ctr Platform 12',43.530197,-80.225339
 5849,'5849','Guelph Central Sta Platform 2',43.546204,-80.244982
 5850,'5850','Guelph Central Sta Platform 3',43.546118,-80.245023
 5851,'5851','Guelph Central Sta Platform 4',43.545995,-80.245154
@@ -566,3 +566,4 @@
 6100,'6100','Poppy @ Hawkins WB',43.501244,-80.184787
 6101,'6101','Poppy @ Gordon WB',43.499453,-80.187186
 6102,'6102','361 Southgate WB',43.501867,-80.219436
+6103,'6103','Victoria @ Decorso SB',43.52648,-80.188995
