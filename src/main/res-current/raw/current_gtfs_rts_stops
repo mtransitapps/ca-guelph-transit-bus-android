@@ -45,7 +45,7 @@
 214,'214','Elmira @ Freshmeadow NB',43.518933,-80.282056
 215,'215','Elmira @ Stephanie NB',43.521053,-80.287271
 216,'216','Elmira @ Paisley NB',43.52205,-80.289686
-217,'217','Opposite 19 Elmira NB',43.523051,-80.292219
+217,'217','Opp 19 Elmira NB',43.523051,-80.292219
 218,'218','Willow @ Flaherty EB',43.527366,-80.296851
 219,'219','Imperial @ Willow NB',43.529034,-80.292485
 220,'220','Imperial @ Dunhill NB',43.531564,-80.294132
@@ -202,7 +202,7 @@
 525,'525','Goodwin @ Eugene WB',43.503155,-80.187971
 526,'526','Farley @ Eugene NB',43.504064,-80.190238
 527,'527','Pine Rdg @ Periwinkle NB',43.508863,-80.192954
-528,'528','Gordon @ Lowes NB',43.509007,-80.195581
+528,'528','Gordon @ Lowes NB',43.509006,-80.19558
 529,'529','Gordon @ Heritage NB',43.511014,-80.196427
 543,'543','Gordon @ Wellington NB',43.541025,-80.245226
 544,'544','Gordon @ Nottingham NB',43.541829,-80.24756
@@ -419,7 +419,7 @@
 2014,'2014','Elmira @ Woodlawn NB',43.537186,-80.31243
 2015,'2015','Woodlawn @ Michener WB',43.535798,-80.317838
 2016,'2016','Governors @ Woodlawn NB',43.533277,-80.322076
-2017,'2017','Malcolm @ Micheners EB',43.536101,-80.322631
+2017,'2017','Malcolm @ Michener EB',43.536101,-80.322631
 2018,'2018','30 Malcolm EB',43.538857,-80.318775
 2019,'2019','Malcolm @ Elmira EB',43.53994,-80.317256
 2020,'2020','Michener @ Woodlawn SB',43.533929,-80.31917
@@ -491,11 +491,12 @@
 5867,'5867','229 Dublin NB',43.547888,-80.257446
 5880,'5880','Vlg By The Arboretum',43.529475,-80.214153
 5882,'5882','Stone Rd Mall Platform 4',43.518223,-80.239911
+5910,'5910','Clairfields @ Farley EB',43.50523,-80.192266
 5912,'5912','Woodlawn Smart Centres',43.56517,-80.280747
 5915,'5915','Arkell @ Victoria WB',43.523441,-80.186501
 5917,'5917','Woodlawn Smart Centres SB',43.563774,-80.281538
 5923,'5923','Woodlawn @ Arrow EB',43.553295,-80.293471
-5926,'5926','Edinburgh @ Water SB',43.532014,-80.250965
+5926,'5926','Edinburgh @ Water SB',43.532173,-80.251191
 5934,'5934','Edinburgh @ Municipal SB',43.530091,-80.248243
 5936,'5936','Wellington @ Dublin WB',43.539743,-80.245219
 5937,'5937','Wellington @ Holliday WB',43.536888,-80.249781
@@ -527,7 +528,7 @@
 6014,'6014','Goodwin @ Samuel EB',43.513307,-80.175244
 6027,'6027','Edinburgh @ Wellington SB',43.533863,-80.253289
 6029,'6029','Imperial @ West End Community Ctr SB',43.525543,-80.289038
-6030,'6030','London @ Exhibition WB',43.548189,-80.259609
+6030,'6030','London @ Exhibition WB',43.548147,-80.259709
 6043,'6043','Edinburgh @ Thornberry SB',43.518926,-80.232639
 6044,'6044','Elmira @ Tovell SB',43.525584,-80.296821
 6045,'6045','199 Westwood WB',43.532145,-80.282334
@@ -551,7 +552,6 @@
 6077,'6077','Arkell @ Amos WB',43.519692,-80.191558
 6078,'6078','Woodlawn @ Hanlon WB',43.550367,-80.297764
 6079,'6079','Wellington @ Dublin EB',43.538884,-80.245393
-6082,'6082','Norfolk @ Suffolk NB',43.547857,-80.254465
 6085,'6085','Gordon @ Oak SB',43.523926,-80.216658
 6088,'6088','168 Metcalfe SB',43.558593,-80.251774
 6089,'6089','319 Stevenson NB',43.561028,-80.250653
