@@ -335,6 +335,7 @@
 1225,'1225','Delhi @ Eramosa SB',43.553192,-80.250307
 1302,'1302','Eramosa @ Arthur EB',43.549144,-80.250382
 1303,'1303','Eramosa @ Saint Catharine EB',43.555635,-80.249516
+1309,'1309','Grange @ Louisa EB',43.553898,-80.238851
 1311,'1311','Cassino @ William EB',43.558253,-80.240035
 1312,'1312','Cassino @ Palermo EB',43.561435,-80.235853
 1313,'1313','Cassino @ Hadati NB',43.562827,-80.234711
@@ -452,6 +453,7 @@
 5832,'5832','University Ctr South Loop Platform 5',43.529154,-80.223879
 5833,'5833','Guelph Central Sta Platform 1',43.546108,-80.245165
 5834,'5834','University Ctr North Loop Platform 10',43.529975,-80.22503
+5835,'5835','Guelph Central Sta Platform 14',43.544983,-80.246264
 5836,'5836','University Ctr North Loop Platform 7',43.529619,-80.224547
 5837,'5837','Guelph Central Sta Platform 5',43.54586,-80.245275
 5839,'5839','Guelph Central Sta Platform 6',43.54571,-80.245411
@@ -467,6 +469,7 @@
 5851,'5851','Guelph Central Sta Platform 4',43.545995,-80.245154
 5852,'5852','Guelph Central Sta Platform 7',43.545593,-80.245533
 5853,'5853','Guelph Central Sta Platform 8',43.544946,-80.246212
+5856,'5856','Guelph Central Sta Platform 15',43.545099,-80.246049
 5857,'5857','Guelph Central Sta Platform 18',43.545545,-80.245645
 5858,'5858','Guelph Central Sta Platform 19',43.54569,-80.245525
 5859,'5859','Guelph Central Sta Platform 20',43.545837,-80.245397
@@ -474,6 +477,11 @@
 5861,'5861','Eastview @ Watson EB',43.577775,-80.224363
 5862,'5862','Watson @ Shackleton NB',43.576674,-80.222137
 5863,'5863','Elmira @ Massey NB',43.534489,-80.308687
+5865,'5865','Willow West Mall',43.541601,-80.280933
+5867,'5867','229 Dublin NB',43.547888,-80.257446
+5880,'5880','Vlg By The Arboretum',43.529475,-80.214153
+5882,'5882','Stone Rd Mall Platform 4',43.518223,-80.239911
+5912,'5912','Woodlawn Smart Centres',43.56517,-80.280747
 5915,'5915','Arkell @ Victoria WB',43.523441,-80.186501
 5917,'5917','Woodlawn Smart Centres SB',43.563774,-80.281538
 5923,'5923','Woodlawn @ Arrow EB',43.553295,-80.293471
@@ -527,6 +535,11 @@
 6079,'6079','Wellington @ Dublin EB',43.538884,-80.245393
 6082,'6082','Norfolk @ Suffolk NB',43.547857,-80.254465
 6085,'6085','Gordon @ Oak SB',43.523926,-80.216658
+6088,'6088','168 Metcalfe SB',43.558593,-80.251774
+6089,'6089','319 Stevenson NB',43.561028,-80.250653
+6091,'6091','214 Cole NB',43.511979,-80.238333
+6092,'6092','145 Chancellors Way EB',43.524666,-80.233368
+6093,'6093','Edinburgh @ Stone NB',43.521371,-80.235705
 6094,'6094','Norfolk @ Cork SB',43.544561,-80.251457
 6095,'6095','1750 Gordon SB',43.50205,-80.191559
 6096,'6096','Elmira @ Tovell NB',43.525705,-80.296706
