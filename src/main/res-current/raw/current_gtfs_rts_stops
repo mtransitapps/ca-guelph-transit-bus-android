@@ -15,8 +15,8 @@
 118,'118','College @ Lynnwood EB',43.524333,-80.243006
 119,'119','College @ Smith Ln EB',43.529659,-80.235779
 120,'120','College @ MacDonald EB',43.533559,-80.230508
-121,'121','East Ring Rd @ Dundas Ln SB',43.53482,-80.224483
-122,'122','East Ring Rd @ Arboretum Rd SB',43.533251,-80.22234
+121,'121','E Ring Rd @ Dundas Ln SB',43.53482,-80.224483
+122,'122','E Ring Rd @ Arboretum Rd SB',43.533251,-80.22234
 154,'154','College @ Caledonia WB',43.529779,-80.23581
 155,'155','College @ Edinburgh WB',43.525008,-80.242347
 156,'156','College @ Centennial WB',43.521522,-80.24709
@@ -41,7 +41,7 @@
 210,'210','Fife @ Wellington WB',43.517835,-80.270269
 211,'211','Fife @ Gateway WB',43.515645,-80.273225
 212,'212','Fife @ Deerfield WB',43.513901,-80.275585
-213,'213','Elmira @ West Acres NB',43.516387,-80.278779
+213,'213','Elmira @ W Acres NB',43.516387,-80.278779
 214,'214','Elmira @ Freshmeadow NB',43.518933,-80.282056
 215,'215','Elmira @ Stephanie NB',43.521053,-80.287271
 216,'216','Elmira @ Paisley NB',43.52205,-80.289686
@@ -248,7 +248,7 @@
 801,'801','Wyndham @ Fountain SB',43.543416,-80.245865
 802,'802','Wellington @ Wyndham WB',43.542282,-80.243956
 808,'808','Edinburgh @ Maplewood SB',43.527423,-80.244515
-813,'813','Stone Rd Mall Platform 1',43.518749,-80.239206
+813,'813','Stone Rd Mall P 1',43.518749,-80.239206
 815,'815','268 Scottsdale NB',43.521752,-80.241999
 816,'816','Scottsdale @ College NB',43.523259,-80.243572
 818,'818','Edinburgh @ Floral NB',43.526836,-80.243419
@@ -448,38 +448,38 @@
 5820,'5820','Eramosa @ Delhi WB',43.553907,-80.249915
 5829,'5829','Imperial @ Speedvale NB',43.536954,-80.296551
 5830,'5830','Wyndham @ Quebec NB',43.545855,-80.248962
-5831,'5831','University Ctr South Loop Platform 3',43.528915,-80.22357
-5832,'5832','University Ctr South Loop Platform 5',43.529154,-80.223879
-5833,'5833','Guelph Central Sta Platform 1',43.546108,-80.245165
-5834,'5834','University Ctr North Loop Platform 10',43.529975,-80.22503
-5835,'5835','Guelph Central Sta Platform 14',43.544983,-80.246264
-5836,'5836','University Ctr North Loop Platform 7',43.529619,-80.224547
-5837,'5837','Guelph Central Sta Platform 5',43.54586,-80.245275
-5839,'5839','Guelph Central Sta Platform 6',43.54571,-80.245411
-5840,'5840','University Ctr South Loop Platform 6',43.529272,-80.224031
-5841,'5841','Guelph Central Sta Platform 21',43.545791,-80.2458
-5843,'5843','University Ctr South Loop Platform 1',43.52871,-80.223454
-5844,'5844','University Ctr South Loop Platform 2',43.528821,-80.223498
-5845,'5845','University Ctr South Loop Platform 4',43.529039,-80.223716
-5847,'5847','University Ctr North Loop Platform 11',43.530091,-80.225189
-5848,'5848','University Ctr Platform 12',43.530197,-80.225339
-5849,'5849','Guelph Central Sta Platform 2',43.546204,-80.244982
-5850,'5850','Guelph Central Sta Platform 3',43.546118,-80.245023
-5851,'5851','Guelph Central Sta Platform 4',43.545995,-80.245154
-5852,'5852','Guelph Central Sta Platform 7',43.545593,-80.245533
-5853,'5853','Guelph Central Sta Platform 8',43.544946,-80.246212
-5856,'5856','Guelph Central Sta Platform 15',43.545099,-80.246049
-5857,'5857','Guelph Central Sta Platform 18',43.545545,-80.245645
-5858,'5858','Guelph Central Sta Platform 19',43.54569,-80.245525
-5859,'5859','Guelph Central Sta Platform 20',43.545837,-80.245397
-5860,'5860','Guelph Central Sta Platform 22',43.545698,-80.245991
+5831,'5831','University Ctr S Loop P 3',43.528915,-80.22357
+5832,'5832','University Ctr S Loop P 5',43.529154,-80.223879
+5833,'5833','Guelph Central Sta P 1',43.546108,-80.245165
+5834,'5834','University Ctr N Loop P 10',43.529975,-80.22503
+5835,'5835','Guelph Central Sta P 14',43.544983,-80.246264
+5836,'5836','University Ctr N Loop P 7',43.529619,-80.224547
+5837,'5837','Guelph Central Sta P 5',43.54586,-80.245275
+5839,'5839','Guelph Central Sta P 6',43.54571,-80.245411
+5840,'5840','University Ctr S Loop P 6',43.529272,-80.224031
+5841,'5841','Guelph Central Sta P 21',43.545791,-80.2458
+5843,'5843','University Ctr S Loop P 1',43.52871,-80.223454
+5844,'5844','University Ctr S Loop P 2',43.528821,-80.223498
+5845,'5845','University Ctr S Loop P 4',43.529039,-80.223716
+5847,'5847','University Ctr N Loop P 11',43.530091,-80.225189
+5848,'5848','University Ctr P 12',43.530197,-80.225339
+5849,'5849','Guelph Central Sta P 2',43.546204,-80.244982
+5850,'5850','Guelph Central Sta P 3',43.546118,-80.245023
+5851,'5851','Guelph Central Sta P 4',43.545995,-80.245154
+5852,'5852','Guelph Central Sta P 7',43.545593,-80.245533
+5853,'5853','Guelph Central Sta P 8',43.544946,-80.246212
+5856,'5856','Guelph Central Sta P 15',43.545099,-80.246049
+5857,'5857','Guelph Central Sta P 18',43.545545,-80.245645
+5858,'5858','Guelph Central Sta P 19',43.54569,-80.245525
+5859,'5859','Guelph Central Sta P 20',43.545837,-80.245397
+5860,'5860','Guelph Central Sta P 22',43.545698,-80.245991
 5861,'5861','Eastview @ Watson EB',43.577775,-80.224363
 5862,'5862','Watson @ Shackleton NB',43.576674,-80.222137
 5863,'5863','Elmira @ Massey NB',43.534489,-80.308687
-5865,'5865','Willow West Mall',43.541601,-80.280933
+5865,'5865','Willow W Mall',43.541601,-80.280933
 5867,'5867','229 Dublin NB',43.547888,-80.257446
 5880,'5880','Vlg By The Arboretum',43.529475,-80.214153
-5882,'5882','Stone Rd Mall Platform 4',43.518223,-80.239911
+5882,'5882','Stone Rd Mall P 4',43.518223,-80.239911
 5912,'5912','Woodlawn Smart Centres',43.56517,-80.280747
 5915,'5915','Arkell @ Victoria WB',43.523441,-80.186501
 5917,'5917','Woodlawn Smart Centres SB',43.563774,-80.281538
@@ -489,8 +489,8 @@
 5936,'5936','Wellington @ Dublin WB',43.539743,-80.245219
 5937,'5937','Wellington @ Holliday WB',43.536888,-80.249781
 5939,'5939','Wellington @ Imperial WB',43.520271,-80.268687
-5940,'5940','West Acres @ Northwood EB',43.519455,-80.276747
-5941,'5941','West Acres @ Imperial EB',43.521836,-80.27365
+5940,'5940','W Acres @ Northwood EB',43.519455,-80.276747
+5941,'5941','W Acres @ Imperial EB',43.521836,-80.27365
 5942,'5942','Speedvale @ Conestoga College EB',43.538736,-80.295143
 5957,'5957','Watson @ Shackleton SB',43.575754,-80.221147
 5958,'5958','Speedvale @ Edinburgh WB',43.552344,-80.276704
@@ -509,13 +509,13 @@
 6011,'6011','Edinburgh @ Lonsdale NB',43.553539,-80.28045
 6013,'6013','Victoria @ Macalister SB',43.532866,-80.197672
 6027,'6027','Edinburgh @ Wellington SB',43.533863,-80.253289
-6029,'6029','Imperial @ West End Community Ctr SB',43.525543,-80.289038
+6029,'6029','Imperial @ W End Community Ctr SB',43.525543,-80.289038
 6030,'6030','London @ Exhibition WB',43.548147,-80.259709
 6043,'6043','Edinburgh @ Thornberry SB',43.518926,-80.232639
 6044,'6044','Elmira @ Tovell SB',43.525584,-80.296821
 6045,'6045','199 Westwood WB',43.532145,-80.282334
 6046,'6046','Gordon @ Royal City Pk NB',43.53948,-80.242763
-6047,'6047','Stone Rd Mall Platform 2',43.518573,-80.239441
+6047,'6047','Stone Rd Mall P 2',43.518573,-80.239441
 6052,'6052','Grange @ Clythe Crk EB',43.572347,-80.219782
 6055,'6055','Woodlawn Smart Centres NB',43.564122,-80.281735
 6056,'6056','Eramosa @ Stevenson EB',43.559504,-80.248895
