@@ -248,7 +248,7 @@
 801,'801','Wyndham @ Fountain SB',43.543416,-80.245865
 802,'802','Wellington @ Wyndham WB',43.542282,-80.243956
 808,'808','Edinburgh @ Maplewood SB',43.527423,-80.244515
-813,'813','Stone Rd Mall P 1',43.518749,-80.239206
+813,'813','Stone Rd Mall P:1',43.518749,-80.239206
 815,'815','268 Scottsdale NB',43.521752,-80.241999
 816,'816','Scottsdale @ College NB',43.523259,-80.243572
 818,'818','Edinburgh @ Floral NB',43.526836,-80.243419
@@ -448,38 +448,38 @@
 5820,'5820','Eramosa @ Delhi WB',43.553907,-80.249915
 5829,'5829','Imperial @ Speedvale NB',43.536954,-80.296551
 5830,'5830','Wyndham @ Quebec NB',43.545855,-80.248962
-5831,'5831','University Ctr S Loop P 3',43.528915,-80.22357
-5832,'5832','University Ctr S Loop P 5',43.529154,-80.223879
-5833,'5833','Guelph Central Sta P 1',43.546108,-80.245165
-5834,'5834','University Ctr N Loop P 10',43.529975,-80.22503
-5835,'5835','Guelph Central Sta P 14',43.544983,-80.246264
-5836,'5836','University Ctr N Loop P 7',43.529619,-80.224547
-5837,'5837','Guelph Central Sta P 5',43.54586,-80.245275
-5839,'5839','Guelph Central Sta P 6',43.54571,-80.245411
-5840,'5840','University Ctr S Loop P 6',43.529272,-80.224031
-5841,'5841','Guelph Central Sta P 21',43.545791,-80.2458
-5843,'5843','University Ctr S Loop P 1',43.52871,-80.223454
-5844,'5844','University Ctr S Loop P 2',43.528821,-80.223498
-5845,'5845','University Ctr S Loop P 4',43.529039,-80.223716
-5847,'5847','University Ctr N Loop P 11',43.530091,-80.225189
-5848,'5848','University Ctr P 12',43.530197,-80.225339
-5849,'5849','Guelph Central Sta P 2',43.546204,-80.244982
-5850,'5850','Guelph Central Sta P 3',43.546118,-80.245023
-5851,'5851','Guelph Central Sta P 4',43.545995,-80.245154
-5852,'5852','Guelph Central Sta P 7',43.545593,-80.245533
-5853,'5853','Guelph Central Sta P 8',43.544946,-80.246212
-5856,'5856','Guelph Central Sta P 15',43.545099,-80.246049
-5857,'5857','Guelph Central Sta P 18',43.545545,-80.245645
-5858,'5858','Guelph Central Sta P 19',43.54569,-80.245525
-5859,'5859','Guelph Central Sta P 20',43.545837,-80.245397
-5860,'5860','Guelph Central Sta P 22',43.545698,-80.245991
+5831,'5831','University Ctr S Loop P:3',43.528915,-80.22357
+5832,'5832','University Ctr S Loop P:5',43.529154,-80.223879
+5833,'5833','Guelph Central Sta P:1',43.546108,-80.245165
+5834,'5834','University Ctr N Loop P:10',43.529975,-80.22503
+5835,'5835','Guelph Central Sta P:14',43.544983,-80.246264
+5836,'5836','University Ctr N Loop P:7',43.529619,-80.224547
+5837,'5837','Guelph Central Sta P:5',43.54586,-80.245275
+5839,'5839','Guelph Central Sta P:6',43.54571,-80.245411
+5840,'5840','University Ctr S Loop P:6',43.529272,-80.224031
+5841,'5841','Guelph Central Sta P:21',43.545791,-80.2458
+5843,'5843','University Ctr S Loop P:1',43.52871,-80.223454
+5844,'5844','University Ctr S Loop P:2',43.528821,-80.223498
+5845,'5845','University Ctr S Loop P:4',43.529039,-80.223716
+5847,'5847','University Ctr N Loop P:11',43.530091,-80.225189
+5848,'5848','University Ctr P:12',43.530197,-80.225339
+5849,'5849','Guelph Central Sta P:2',43.546204,-80.244982
+5850,'5850','Guelph Central Sta P:3',43.546118,-80.245023
+5851,'5851','Guelph Central Sta P:4',43.545995,-80.245154
+5852,'5852','Guelph Central Sta P:7',43.545593,-80.245533
+5853,'5853','Guelph Central Sta P:8',43.544946,-80.246212
+5856,'5856','Guelph Central Sta P:15',43.545099,-80.246049
+5857,'5857','Guelph Central Sta P:18',43.545545,-80.245645
+5858,'5858','Guelph Central Sta P:19',43.54569,-80.245525
+5859,'5859','Guelph Central Sta P:20',43.545837,-80.245397
+5860,'5860','Guelph Central Sta P:22',43.545698,-80.245991
 5861,'5861','Eastview @ Watson EB',43.577775,-80.224363
 5862,'5862','Watson @ Shackleton NB',43.576674,-80.222137
 5863,'5863','Elmira @ Massey NB',43.534489,-80.308687
 5865,'5865','Willow W Mall',43.541601,-80.280933
 5867,'5867','229 Dublin NB',43.547888,-80.257446
 5880,'5880','Vlg By The Arboretum',43.529475,-80.214153
-5882,'5882','Stone Rd Mall P 4',43.518223,-80.239911
+5882,'5882','Stone Rd Mall P:4',43.518223,-80.239911
 5912,'5912','Woodlawn Smart Ctrs',43.56517,-80.280747
 5915,'5915','Arkell @ Victoria WB',43.523441,-80.186501
 5917,'5917','Woodlawn Smart Ctrs SB',43.563774,-80.281538
@@ -515,7 +515,7 @@
 6044,'6044','Elmira @ Tovell SB',43.525584,-80.296821
 6045,'6045','199 Westwood WB',43.532145,-80.282334
 6046,'6046','Gordon @ Royal City Pk NB',43.53948,-80.242763
-6047,'6047','Stone Rd Mall P 2',43.518573,-80.239441
+6047,'6047','Stone Rd Mall P:2',43.518573,-80.239441
 6052,'6052','Grange @ Clythe Crk EB',43.572347,-80.219782
 6055,'6055','Woodlawn Smart Ctrs NB',43.564122,-80.281735
 6056,'6056','Eramosa @ Stevenson EB',43.559504,-80.248895
