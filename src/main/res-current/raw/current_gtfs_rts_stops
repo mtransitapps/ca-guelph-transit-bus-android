@@ -183,10 +183,10 @@
 419,'419','Watson @ Taggert NB',43.56008,-80.205925
 420,'420','York @ Watson WB',43.561528,-80.210798
 422,'422','York @ Cityview WB',43.557036,-80.216997
-424,'424','York @ Victoria WB',43.551535,-80.224532
+424,'424','York @ Victoria WB',43.552214,-80.223682
 425,'425','York @ Brockville WB',43.54903,-80.227889
 426,'426','York @ Harris WB',43.547537,-80.229905
-427,'427','Ontario @ Huron WB',43.545609,-80.23307
+427,'427','Ontario @ Huron WB',43.545475,-80.233812
 428,'428','Ontario @ Manitoba WB',43.54483,-80.237181
 429,'429','Ontario @ Neeve WB',43.544258,-80.240207
 501,'501','Gordon @ Nottingham SB',43.541823,-80.24806
@@ -446,7 +446,6 @@
 5840,'5840','University Ctr S Loop P:6',43.529272,-80.224031
 5841,'5841','Guelph Central Sta P:21',43.545791,-80.2458
 5843,'5843','University Ctr S Loop P:1',43.52871,-80.223454
-5844,'5844','University Ctr S Loop P:2',43.528821,-80.223498
 5845,'5845','University Ctr S Loop P:4',43.529039,-80.223716
 5847,'5847','University Ctr N Loop P:11',43.530091,-80.225189
 5848,'5848','University Ctr N Loop P:12',43.530197,-80.225339
@@ -455,12 +454,13 @@
 5851,'5851','Guelph Central Sta P:4',43.545995,-80.245154
 5852,'5852','Guelph Central Sta P:7',43.545593,-80.245533
 5853,'5853','Guelph Central Sta P:8',43.544946,-80.246212
+5856,'5856','Guelph Central Sta P:15',43.545099,-80.246049
 5857,'5857','Guelph Central Sta P:18',43.545545,-80.245645
 5858,'5858','Guelph Central Sta P:19',43.54569,-80.245525
 5859,'5859','Guelph Central Sta P:20',43.545837,-80.245397
 5860,'5860','Guelph Central Sta P:22',43.545698,-80.245991
 5861,'5861','Eastview @ Watson EB',43.577775,-80.224363
-5862,'5862','Watson @ Shackleton NB',43.576674,-80.222137
+5862,'5862','Watson @ Shackleton NB',43.575952,-80.221071
 5863,'5863','Elmira @ Massey NB',43.534489,-80.308687
 5915,'5915','Arkell @ Victoria WB',43.523441,-80.186501
 5917,'5917','Woodlawn Smart Ctrs SB',43.563774,-80.281538
