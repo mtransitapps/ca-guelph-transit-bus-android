@@ -1,7 +1,7 @@
 100,0,'Edinburgh College',1
 200,0,'College Edinburgh',2
 300,0,'Westmount',3
-400,0,'York On Detour',4
+400,0,'York',4
 500,0,'Goodwin',5
 600,0,'Harvard Ironwood',6
 700,0,'Kortright Downey',7
@@ -13,15 +13,12 @@
 1300,0,'Victoria Rd Recreation Ctr',13
 1400,0,'Grange',14
 1500,0,'University College',15
+1600,0,'Southgate',16
 1700,0,'Woodlawn Watson',17
 1800,0,'Watson Woodlawn',18
+1901,0,'Gosling Gdns @ Clair NB',19
+1900,0,'Laird @ Clair WB',19
 2000,0,'Northwest Ind',20
 9900,0,'NB',99
 9901,0,'SB',99
-1000200,0,'Hanlon Ind On Demand',10002
-21005000,0,'U Scottsdale',210050
-21005200,0,'U Kortright',210052
-21005600,0,'U Gordon',210056
-21005800,0,'U Edinburgh',210058
-21005901,0,'Clairfields',210059
-21005900,0,'University Ctr',210059
+999800,0,'On Demand',9998
