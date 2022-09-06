@@ -16,9 +16,11 @@
 1600,0,'Southgate',16
 1700,0,'Woodlawn Watson',17
 1800,0,'Watson Woodlawn',18
-1901,0,'Gosling Gdns @ Clair NB',19
-1900,0,'Hanlon Crk @ Bett WB',19
+1900,0,'Hanlon Crk',19
 2000,0,'Northwest Ind',20
 9900,0,'NB',99
 9901,0,'SB',99
-999800,0,'On Demand',9998
+21005000,0,'U Scottsdale',210050
+21005200,0,'U Kortright',210052
+21005600,0,'U Gordon',210056
+21005800,0,'U Edinburgh',210058

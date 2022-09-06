@@ -16,6 +16,7 @@
 119,'119','College @ Smith Ln EB',43.529659,-80.235779
 120,'120','College @ MacDonald EB',43.533559,-80.230508
 121,'121','E Ring Rd @ Dundas Ln SB',43.53482,-80.224483
+122,'122','E Ring Rd @ Arboretum Rd SB',43.533251,-80.22234
 154,'154','College @ Caledonia WB',43.529779,-80.23581
 155,'155','College @ Edinburgh WB',43.525008,-80.242347
 156,'156','College @ Centennial WB',43.521522,-80.24709
@@ -182,7 +183,7 @@
 419,'419','Watson @ Taggert NB',43.56008,-80.205925
 420,'420','York @ Watson WB',43.561528,-80.210798
 422,'422','York @ Cityview WB',43.557036,-80.216997
-424,'424','York @ Victoria WB',43.552214,-80.223682
+424,'424','York @ Victoria WB',43.551535,-80.224532
 425,'425','York @ Brockville WB',43.54903,-80.227889
 426,'426','York @ Harris WB',43.547537,-80.229905
 427,'427','Ontario @ Huron WB',43.545475,-80.233812
@@ -322,7 +323,7 @@
 1213,'1213','Victoria @ Brant NB',43.575329,-80.256434
 1214,'1214','Woodlawn @ Victoria WB',43.577342,-80.260578
 1215,'1215','Windsor @ Kingsley SB',43.57296,-80.260716
-1216,'1216','Waverley @ Stevenson WB',43.57003,-80.262589
+1216,'1216','Waverley @ Stevenson WB',43.570549,-80.26134
 1217,'1217','Metcalfe @ Waverley SB',43.568041,-80.264599
 1218,'1218','Metcalfe @ Shaftesbury SB',43.565957,-80.261716
 1219,'1219','Metcalfe @ Speedvale SB',43.56455,-80.260081
@@ -376,11 +377,16 @@
 1511,'1511','College @ Devere EB',43.517188,-80.252786
 1512,'1512','College @ Hanlon EB',43.519595,-80.249431
 1516,'1516','Scottsdale @ Wilsonview NB',43.520943,-80.239904
+1517,'1517','Wilsonview @ Edinburgh EB',43.522061,-80.238793
+1518,'1518','Edinburgh @ Chancellors Way SB',43.52145,-80.236161
 1519,'1519','252 Stone EB',43.521654,-80.231246
 1520,'1520','Stone @ Research Ln EB',43.524693,-80.227166
 1602,'1602','Gordon @ Water SB',43.538303,-80.241368
 1606,'1606','Gordon @ Stone SB',43.52735,-80.226117
 1612,'1612','Gordon @ Arkell SB',43.513912,-80.199892
+1613,'1613','Gordon @ Vaughan SB',43.511739,-80.197166
+1614,'1614','Gordon @ Lowes SB',43.508879,-80.195804
+1615,'1615','Gordon @ Clairfields SB',43.505172,-80.194346
 1619,'1619','Laird @ Clair WB',43.492919,-80.200118
 1620,'1620','Southgate @ Laird NB',43.494653,-80.207422
 1621,'1621','125 Southgate NB',43.497292,-80.210683
@@ -434,13 +440,18 @@
 2037,'2037','Willow @ Alma EB',43.543525,-80.27381
 2040,'2040','Willow @ Bagot EB',43.545199,-80.271517
 5602,'5602','1035 Victoria SB',43.531383,-80.195659
+5605,'5605','Colonial @ Lambeth Way NB',43.516938,-80.180842
+5606,'5606','Colonial @ Marsh NB',43.519664,-80.184594
+5607,'5607','Colonial @ Bard NB',43.520917,-80.187044
 5608,'5608','Gordon @ Arkell NB',43.514019,-80.199657
+5706,'5706','Ironwood @ Reid WB',43.5152,-80.23188
 5709,'5709','Stone @ Scottsdale EB',43.516167,-80.238592
 5806,'5806','Kortright @ Edinburgh EB',43.51432,-80.219872
 5807,'5807','Gordon @ Kortright NB',43.522746,-80.213816
 5810,'5810','Suffolk @ Dublin WB',43.546406,-80.256774
 5811,'5811','Royal Canadian Legion',43.560879,-80.207826
 5814,'5814','Eastview @ Auden EB',43.569149,-80.236091
+5817,'5817','Ironwood @ Scottsdale WB',43.513147,-80.234387
 5820,'5820','Eramosa @ Delhi WB',43.553907,-80.249915
 5829,'5829','Imperial @ Speedvale NB',43.536954,-80.296551
 5830,'5830','Wyndham @ Quebec NB',43.545855,-80.248962
@@ -454,15 +465,17 @@
 5839,'5839','Guelph Central Sta P:6',43.54571,-80.245411
 5840,'5840','University Ctr S Loop P:6',43.529272,-80.224031
 5841,'5841','Guelph Central Sta P:21',43.545791,-80.2458
+5842,'5842','University Ctr S Loop P:0',43.528567,-80.223421
 5843,'5843','University Ctr S Loop P:1',43.52871,-80.223454
+5844,'5844','University Ctr S Loop P:2',43.528821,-80.223498
 5845,'5845','University Ctr S Loop P:4',43.529039,-80.223716
+5846,'5846','University Ctr N Loop P:8',43.529735,-80.224697
 5847,'5847','University Ctr N Loop P:11',43.530091,-80.225189
 5848,'5848','University Ctr N Loop P:12',43.530197,-80.225339
 5849,'5849','Guelph Central Sta P:2',43.546204,-80.244982
 5850,'5850','Guelph Central Sta P:3',43.546118,-80.245023
 5851,'5851','Guelph Central Sta P:4',43.545995,-80.245154
 5852,'5852','Guelph Central Sta P:7',43.545593,-80.245533
-5856,'5856','Guelph Central Sta P:15',43.545099,-80.246049
 5857,'5857','Guelph Central Sta P:18',43.545545,-80.245645
 5858,'5858','Guelph Central Sta P:19',43.54569,-80.245525
 5859,'5859','Guelph Central Sta P:20',43.545837,-80.245397
@@ -473,6 +486,7 @@
 5915,'5915','Arkell @ Victoria WB',43.523441,-80.186501
 5917,'5917','Woodlawn Smart Ctrs SB',43.563774,-80.281538
 5923,'5923','Woodlawn @ Arrow EB',43.553295,-80.293471
+5924,'5924','Starwood @ Frasson NB',43.566525,-80.214821
 5926,'5926','Edinburgh @ Water SB',43.532173,-80.251191
 5934,'5934','Edinburgh @ Municipal SB',43.530091,-80.248243
 5936,'5936','Wellington @ Dublin WB',43.539743,-80.245219
@@ -481,13 +495,18 @@
 5940,'5940','W Acres @ Northwood EB',43.519455,-80.276747
 5941,'5941','W Acres @ Imperial EB',43.521836,-80.27365
 5942,'5942','Speedvale @ Conestoga College EB',43.538736,-80.295143
+5955,'5955','Farley @ Eugene SB',43.503947,-80.190267
 5957,'5957','Watson @ Shackleton SB',43.575754,-80.221147
 5958,'5958','Speedvale @ Edinburgh WB',43.552344,-80.276704
 5959,'5959','Edinburgh @ Burns NB',43.555449,-80.283132
 5960,'5960','Suffolk @ Norfolk EB',43.547459,-80.254496
 5963,'5963','Clair @ Clairfields WB',43.495516,-80.195657
-5964,'5964','Clair @ Clairfields EB',43.495562,-80.195196
+5964,'5964','Clair @ Clairfields EB',43.495575,-80.195184
 5965,'5965','Clairfields @ Gordon EB',43.504586,-80.194221
+5971,'5971','Goodwin @ Wilkie EB',43.508803,-80.180853
+5972,'5972','Goodwin @ Laughland EB',43.511183,-80.177728
+5973,'5973','Farley @ Clair SB',43.50195,-80.187621
+5976,'5976','Beaver Mdw @ Goodwin NB',43.506465,-80.183165
 5982,'5982','College @ McGilvray EB',43.527995,-80.238036
 5985,'5985','Norfolk @ Suffolk SB',43.54772,-80.25454
 5986,'5986','College @ University WB',43.527934,-80.238322
@@ -498,6 +517,7 @@
 6008,'6008','Clairfields @ Paulstown EB',43.502671,-80.197247
 6011,'6011','Edinburgh @ Lonsdale NB',43.553539,-80.28045
 6013,'6013','Victoria @ Macalister SB',43.532866,-80.197672
+6014,'6014','Goodwin @ Samuel EB',43.513307,-80.175244
 6027,'6027','Edinburgh @ Wellington SB',43.533863,-80.253289
 6029,'6029','Imperial @ W End CC SB',43.525543,-80.289038
 6030,'6030','London @ Exhibition WB',43.548147,-80.259709
@@ -506,11 +526,13 @@
 6045,'6045','199 Westwood WB',43.532145,-80.282334
 6046,'6046','Gordon @ Royal City Pk NB',43.53948,-80.242763
 6047,'6047','Stone Rd Mall P:2',43.518573,-80.239441
+6048,'6048','Stone Rd Mall P:3',43.518398,-80.239676
 6052,'6052','Grange @ Clythe Crk EB',43.572347,-80.219782
 6055,'6055','Woodlawn Smart Ctrs NB',43.564122,-80.281735
 6056,'6056','Eramosa @ Stevenson EB',43.559504,-80.248895
 6058,'6058','Clair @ Gordon WB',43.499321,-80.190518
 6060,'6060','Edinburgh @ Wellington NB',43.533958,-80.253141
+6062,'6062','Lowes @ Gordon EB',43.508978,-80.194126
 6063,'6063','Woolwich @ Heffernan NB',43.547361,-80.247088
 6064,'6064','Watt @ Auden EB',43.56785,-80.231784
 6065,'6065','1027 Gordon SB',43.520852,-80.210319
@@ -522,6 +544,7 @@
 6077,'6077','Arkell @ Amos WB',43.519692,-80.191558
 6078,'6078','Woodlawn @ Hanlon WB',43.550367,-80.297764
 6079,'6079','Wellington @ Dublin EB',43.538884,-80.245393
+6082,'6082','Norfolk @ Suffolk NB',43.547857,-80.254465
 6085,'6085','Gordon @ Oak SB',43.523926,-80.216658
 6094,'6094','Norfolk @ Cork SB',43.544561,-80.251457
 6095,'6095','1750 Gordon SB',43.50205,-80.191559
@@ -543,9 +566,9 @@
 6123,'6123','Hanlon Crk @ Bett WB',43.494703,-80.223642
 6130,'6130','Bett @ Teal SB',43.495109,-80.224238
 6131,'6131','290 Hanlon Crk SB',43.493021,-80.220012
-6134,'6134','Hanlon Crk @ Cooper EB',43.485729,-80.215392
-6135,'6135','Laird @ Southgate EB',43.492333,-80.210064
-6136,'6136','Laird @ Clair EB',43.492756,-80.200407
+6134,'6134','Hanlon Crk @ Cooper EB',43.48648,-80.214608
+6135,'6135','Laird @ Southgate EB',43.493116,-80.209107
+6136,'6136','Laird @ Clair EB',43.492912,-80.200878
 6155,'6155','Opp 195 Hanlon Crk SB',43.490258,-80.21788
 6161,'6161','Grange @ Bradson EB',43.562132,-80.223996
 6162,'6162','Grange @ Kemp WB',43.561987,-80.224479
