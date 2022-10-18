@@ -15,7 +15,7 @@
 118,'118','College @ Lynnwood EB',43.524333,-80.243006
 119,'119','College @ Smith Ln EB',43.529659,-80.235779
 120,'120','College @ MacDonald EB',43.533559,-80.230508
-121,'121','E Ring Rd @ Dundas Ln SB',43.53482,-80.224483
+121,'121','E Ring Rd @ Dundas Ln SB',43.534327,-80.223817
 122,'122','E Ring Rd @ Arboretum Rd SB',43.533251,-80.22234
 154,'154','College @ Caledonia WB',43.529779,-80.23581
 155,'155','College @ Edinburgh WB',43.525008,-80.242347
@@ -323,7 +323,7 @@
 1213,'1213','Victoria @ Brant NB',43.575329,-80.256434
 1214,'1214','Woodlawn @ Victoria WB',43.577342,-80.260578
 1215,'1215','Windsor @ Kingsley SB',43.57296,-80.260716
-1216,'1216','Waverley @ Stevenson WB',43.570549,-80.26134
+1216,'1216','Waverley @ Stevenson WB',43.57054,-80.261286
 1217,'1217','Metcalfe @ Waverley SB',43.568041,-80.264599
 1218,'1218','Metcalfe @ Shaftesbury SB',43.565957,-80.261716
 1219,'1219','Metcalfe @ Speedvale SB',43.56455,-80.260081
@@ -483,10 +483,11 @@
 5861,'5861','Eastview @ Watson EB',43.577775,-80.224363
 5862,'5862','Watson @ Shackleton NB',43.575952,-80.221071
 5863,'5863','Elmira @ Massey NB',43.534489,-80.308687
+5910,'5910','Clairfields @ Farley EB',43.50523,-80.192266
 5915,'5915','Arkell @ Victoria WB',43.523441,-80.186501
 5917,'5917','Woodlawn Smart Ctrs SB',43.563774,-80.281538
 5923,'5923','Woodlawn @ Arrow EB',43.553295,-80.293471
-5924,'5924','Starwood @ Frasson NB',43.566525,-80.214821
+5924,'5924','Starwood @ Skinner NB',43.566452,-80.213897
 5926,'5926','Edinburgh @ Water SB',43.532173,-80.251191
 5934,'5934','Edinburgh @ Municipal SB',43.530091,-80.248243
 5936,'5936','Wellington @ Dublin WB',43.539743,-80.245219
