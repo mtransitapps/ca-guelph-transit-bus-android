@@ -1,2 +1,1 @@
-Guelph Transit buses for MonTransit.
-Schedule. News.
+Guelph Transit buses for MonTransit. Schedule. News.
