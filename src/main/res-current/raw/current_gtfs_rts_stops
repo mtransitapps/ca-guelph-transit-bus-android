@@ -334,7 +334,7 @@
 1224,'1224','Delhi @ Guelph General Hosp SB',43.555388,-80.253356
 1225,'1225','Delhi @ Eramosa SB',43.553192,-80.250307
 1302,'1302','Eramosa @ Arthur EB',43.549144,-80.250382
-1303,'1303','Eramosa @ Saint Catharine EB',43.555635,-80.249516
+1303,'1303','Eramosa @ Saint Catharine EB',43.556164,-80.249405
 1311,'1311','Cassino @ William EB',43.558253,-80.240035
 1312,'1312','Cassino @ Palermo EB',43.561435,-80.235853
 1313,'1313','Cassino @ Hadati NB',43.562827,-80.234711
@@ -509,7 +509,7 @@
 5973,'5973','Farley @ Clair SB',43.50195,-80.187621
 5976,'5976','Beaver Mdw @ Goodwin NB',43.506465,-80.183165
 5982,'5982','College @ McGilvray EB',43.527995,-80.238036
-5985,'5985','Norfolk @ Suffolk SB',43.54772,-80.25454
+5985,'5985','Norfolk @ Suffolk SB',43.547052,-80.253903
 5986,'5986','College @ University WB',43.527934,-80.238322
 6003,'6003','Norfolk @ Oxford NB',43.545915,-80.252594
 6004,'6004','230 Silvercreek SB',43.544058,-80.286154
@@ -543,6 +543,7 @@
 6075,'6075','Scottsdale @ College SB',43.523129,-80.24362
 6076,'6076','Scottsdale @ Wilsonview SB',43.520811,-80.239921
 6077,'6077','Arkell @ Amos WB',43.519692,-80.191558
+6078,'6078','Woodlawn @ Hanlon WB',43.550367,-80.297764
 6079,'6079','Wellington @ Dublin EB',43.538884,-80.245393
 6082,'6082','Norfolk @ Suffolk NB',43.547857,-80.254465
 6085,'6085','Gordon @ Oak SB',43.523926,-80.216658
@@ -555,6 +556,11 @@
 6101,'6101','Poppy @ Gordon WB',43.499453,-80.187186
 6102,'6102','361 Southgate WB',43.501867,-80.219436
 6103,'6103','Victoria @ Decorso SB',43.52648,-80.188995
+6104,'6104','Brothers Brewing Company',43.545053,-80.248196
+6105,'6105','Fixed Gear Brewing Co',43.535621,-80.26224
+6106,'6106','Wellington Brewery',43.533277,-80.321072
+6108,'6108','Fat Duck Gastro Pub',43.513343,-80.22119
+6109,'6109','Royal City Brewing Co',43.552485,-80.224803
 6114,'6114','Laird @ Southgate WB',43.493241,-80.209416
 6115,'6115','Laird @ Cooper SB',43.485551,-80.214637
 6116,'6116','Quarterman @ Laird EB',43.482707,-80.211688
