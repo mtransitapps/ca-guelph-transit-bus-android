@@ -1,8 +1,8 @@
 This application adds Guelph Transit buses information to MonTransit.
 
-This app contains the buses schedule (available offline) and news from guelph.ca and @guelphtransit on Twitter.
+This app provides the planned schedule as well as real time service statuses and news from guelph.ca and @guelphtransit on Twitter.
 
-Guelph Transit serves Guelph in Ontario, Canada.
+Guelph Transit buses serves Guelph in Ontario, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
@@ -10,11 +10,11 @@ This application only has a temporary icon: download the MonTransit app (free) i
 
 You can install this application on the SD card but it is not recommended.
 
-The information comes from the GTFS file provided by City Of Guelph and Guelph Transit.
-http://open.guelph.ca/dataset/guelph-transit-gtfs-data/
-
 This application is free and open-source:
 https://github.com/mtransitapps/ca-guelph-transit-bus-android
+
+The information comes from the GTFS file provided by City Of Guelph and Guelph Transit.
+http://open.guelph.ca/dataset/guelph-transit-gtfs-data/
 
 This app is not related with City Of Guelph and Guelph Transit.
 
