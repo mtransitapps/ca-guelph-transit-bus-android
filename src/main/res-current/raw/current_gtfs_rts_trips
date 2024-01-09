@@ -1,28 +1,34 @@
-235100,0,'Edinburgh College',2351
-235200,0,'Paisley',2352
-235300,0,'Silvercreek',2353
-235400,0,'General Hosp',2354
-235500,0,'Eastview',2355
-235600,0,'Grange',2356
-235700,0,'College',2357
-235800,0,'Southgate',2358
-235900,0,'Woodlawn Watson',2359
-236000,0,'Watson Woodlawn',2360
-236100,0,'Route 19 Hanlon Crk',2361
-236200,0,'College Edinburgh',2362
-236300,0,'Northwest Ind',2363
-236400,0,'Westmount',2364
-236500,0,'York',2365
-236600,0,'Goodwin',2366
-236700,0,'U Scottsdale',2367
-236800,0,'U Kortright',2368
-236900,0,'U Gordon',2369
-237000,0,'U Edinburgh',2370
-237101,0,'Clairfields',2371
-237100,0,'University Ctr',2371
-237200,0,'Ironwood',2372
-237300,0,'Niska',2373
-237400,0,'Stone Rd Mall',2374
-237500,0,'Waterloo',2375
-237600,0,'NB',2376
-237601,0,'SB',2376
+242700,0,'Edinburgh College',2427
+242800,0,'Paisley',2428
+242900,0,'Silvercreek',2429
+243000,0,'General Hosp',2430
+243100,0,'Eastview',2431
+243200,0,'Grange',2432
+243300,0,'College',2433
+243400,0,'Southgate',2434
+243500,0,'Woodlawn Watson',2435
+243600,0,'Watson Woodlawn',2436
+243700,0,'Route 19 Hanlon Crk',2437
+243800,0,'College Edinburgh',2438
+243900,0,'Northwest Ind',2439
+244000,0,'Westmount',2440
+244100,0,'York',2441
+244200,0,'Goodwin',2442
+244300,0,'U Scottsdale',2443
+244400,0,'U Kortright',2444
+244500,0,'U Gordon',2445
+244600,0,'U Edinburgh',2446
+244701,0,'Clairfields',2447
+244700,0,'University Ctr',2447
+244800,0,'Ironwood',2448
+244900,0,'Niska',2449
+245000,0,'Stone Rd Mall',2450
+245100,0,'Waterloo',2451
+245200,0,'NB',2452
+245201,0,'SB',2452
+245300,0,'Lite NB',2453
+245301,0,'Lite SB',2453
+245500,0,'Gordon Edinburgh',2455
+245900,0,'Magic Bus',2459
+246200,0,'Victoria Clair',2462
+246300,0,'W Hanlon Scottsdale',2463
