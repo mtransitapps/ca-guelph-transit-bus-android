@@ -19,8 +19,12 @@ import java.util.Locale;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-// http://data.open.guelph.ca/
-// http://data.open.guelph.ca/dataset/guelph-transit-gtfs-data
+// OLD: http://data.open.guelph.ca/
+// OLD: http://data.open.guelph.ca/dataset/guelph-transit-gtfs-data
+// OLD: http://data.open.guelph.ca/datafiles/guelph-transit/guelph_transit_gtfs.zip
+// https://explore.guelph.ca/
+// https://explore.guelph.ca/documents/5a3f0d17ec464b84b2f81937d2e7a277/about
+// https://guelph.ca/uploads/google/google_transit.zip
 // OTHER: http://guelph.ca/uploads/google/google_transit.zip
 public class GuelphTransitBusAgencyTools extends DefaultAgencyTools {
 
