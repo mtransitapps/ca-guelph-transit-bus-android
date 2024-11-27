@@ -4,7 +4,7 @@
     <string name="gtfs_real_time_for_poi_authority">@string/gtfs_rts_authority</string>
     <bool name="gtfs_real_time_stop_id_is_stop_code">true</bool>
     <bool name="gtfs_real_time_route_id_is_route_short_name">false</bool>
-    <string name="gtfs_real_time_agency_service_alerts_url">http://transitgtfs.guelph.ca:9780/TMGTFSRealTimeWebService/Alert/Alerts.pb</string>
+    <string name="gtfs_real_time_agency_service_alerts_url">https://glphprdtmgtfs.glphtrpcloud.com/tmgtfsrealtimewebservice/alert/alerts.pb</string>
     <string name="gtfs_real_time_agency_id">2000</string>
     <string name="gtfs_real_time_agency_bold_words" />
     <string-array name="gtfs_real_time_agency_extra_languages" />

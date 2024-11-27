@@ -19,13 +19,7 @@ import java.util.Locale;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-// OLD: http://data.open.guelph.ca/
-// OLD: http://data.open.guelph.ca/dataset/guelph-transit-gtfs-data
-// OLD: http://data.open.guelph.ca/datafiles/guelph-transit/guelph_transit_gtfs.zip
-// https://explore.guelph.ca/
-// https://explore.guelph.ca/documents/5a3f0d17ec464b84b2f81937d2e7a277/about
-// https://guelph.ca/uploads/google/google_transit.zip
-// OTHER: http://guelph.ca/uploads/google/google_transit.zip
+// https://explore.guelph.ca/pages/transit-gtfs-data
 public class GuelphTransitBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {
@@ -219,31 +213,4 @@ public class GuelphTransitBusAgencyTools extends DefaultAgencyTools {
 		return CleanUtils.cleanLabel(gStopName);
 	}
 
-	private static final String DASH = "-";
-	private static final String UNDERSCORE = "_";
-
-	@Override
-	@NotNull
-	public String getStopCode(@NotNull GStop gStop) {
-		//noinspection deprecation
-		return gStop.getStopId(); // used for GTFS-RT // stop code == stop ID
-	}
-
-	@Override
-	public int getStopId(@NotNull GStop gStop) {
-		if (gStop.getStopCode().length() > 0 && CharUtils.isDigitsOnly(gStop.getStopCode())) {
-			return Integer.parseInt(gStop.getStopCode());
-		}
-		//noinspection deprecation
-		final String stopId = gStop.getStopId();
-		if (stopId.equals("Route5A-0549_Victoria Road South at Macalister Boulevard southbound")) {
-			return 619;
-		}
-		final int indexOfDASH = stopId.indexOf(DASH);
-		final int indexOfUNDERSCORE = stopId.indexOf(UNDERSCORE, indexOfDASH);
-		if (indexOfDASH >= 0 && indexOfUNDERSCORE >= 0) {
-			return Integer.parseInt(stopId.substring(indexOfDASH + 1, indexOfUNDERSCORE));
-		}
-		throw new MTLog.Fatal("Error while getting stop ID for %s!", gStop);
-	}
 }
