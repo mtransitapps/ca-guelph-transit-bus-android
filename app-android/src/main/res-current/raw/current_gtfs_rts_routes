@@ -1,32 +1,22 @@
-2621,'1','Edinburgh College','C800A1',1543043,3
-2622,'10','Paisley','EC008C',1543044,3
-2623,'11','Silvercreek','5C7AAE',1543045,3
-2624,'12','Delhi','008290',1543046,3
-2625,'13','Eastview','811167',1543047,3
-2626,'14','Grange','485E88',1543048,3
-2627,'15','College','8F7140',1543049,3
-2628,'16','Southgate','29712A',1543050,3
-2629,'17','Woodlawn Watson','CB640A',1543051,3
-2630,'18','Watson Woodlawn','CB640A',1543073,3
-2631,'19','Hanlon Creek','0000FF',1543074,3
-2632,'2','College Edinburgh','C800A1',1543075,3
-2633,'20','Northwest Industrial','556940',1543076,3
-2634,'3','Westmount','91469B',1543077,3
-2635,'4','York','1988B7',1543078,3
-2636,'5','Goodwin','921B1E',1543079,3
-2637,'50U','Scottsdale','FF00FF',1543080,3
-2638,'52U','Kortright','008290',1543081,3
-2639,'56U','Colonial','ED1C24',1543082,3
-2640,'58U','Edinburgh','91469B',1543104,3
-2641,'59U','Gordon Express','0000FF',1543105,3
-2642,'6','Ironwood','ED1C24',1543106,3
-2643,'7','Niska','682C91',1543107,3
-2644,'8','Stone Road Mall','0082B1',1543108,3
-2645,'9','Waterloo','A54686',1543109,3
-2646,'99','Mainline','4F832E',1543110,3
-2647,'99Lite','99 Lite','0000FF',1543111,3
-2648,'BREW','Brewery Tour Charter','000000',1543112,3
-2649,'EdiCol','Edinburgh Colonial','0000FF',1543113,3
-2653,'IroHarv','Ironwood Harvard','0000FF',1543138,3
-2654,'Magic','Magic Bus Sunday Late Night','0000FF',1543139,3
-2657,'WHanSco','West Hanlon Scottsdale','0000FF',1543142,3
+2703,'1','Edinburgh College','C800A1',1543944,3
+2704,'10','Paisley','EC008C',1543945,3
+2705,'11','Silvercreek','5C7AAE',1543946,3
+2706,'12','Delhi','008290',1543947,3
+2707,'13','Eastview','811167',1543948,3
+2708,'14','Grange','485E88',1543949,3
+2709,'15','College','8F7140',1543950,3
+2710,'16','Southgate','29712A',1543972,3
+2711,'17','Woodlawn Watson','CB640A',1543973,3
+2712,'18','Watson Woodlawn','CB640A',1543974,3
+2713,'19','Hanlon Creek','0000FF',1543975,3
+2714,'2','College Edinburgh','C800A1',1543976,3
+2715,'20','Northwest Industrial','556940',1543977,3
+2716,'3','Westmount','91469B',1543978,3
+2717,'4','York','1988B7',1543979,3
+2718,'5','Goodwin','921B1E',1543980,3
+2724,'6','Ironwood','ED1C24',1544007,3
+2725,'7','Niska','682C91',1544008,3
+2726,'8','Stone Road Mall','0082B1',1544009,3
+2727,'9','Waterloo','A54686',1544010,3
+2728,'99','Mainline','4F832E',1544011,3
+2730,'BREW','Guelph.Beer Bus','000000',1544034,3
