@@ -19,4 +19,15 @@
 2726,'8','Stone Road Mall','0082B1',1544009,3
 2727,'9','Waterloo','A54686',1544010,3
 2728,'99','Mainline','4F832E',1544011,3
+2729,'99Lite','99 Lite','0000FF',1544012,3
 2730,'BREW','Guelph.Beer Bus','000000',1544034,3
+2731,'EdiCol','Edinburgh Colonial','0000FF',1544035,3
+2735,'IroHarv','Ironwood Harvard','0000FF',1544039,3
+2739,'WHanSco','West Hanlon Scottsdale','0000FF',1544043,3
+2788,'CanNW','Canada Day Zone 1','FF0000',1544197,3
+2789,'CanNE','Canada Day Zone 2','00CC66',1544198,3
+2790,'CanMidW','Canada Day Zone 3','0EA7F1',1544220,3
+2791,'CanSW','Canada Day Zone 4','CECE00',1544221,3
+2792,'CanSE','Canada Day Zone 5','D11BCD',1544222,3
+2793,'GCSNor','GCS North Loop','FF0000',1544223,3
+2794,'Ribfest','Ribfest Guelph Shuttle','FF0000',1544224,3
