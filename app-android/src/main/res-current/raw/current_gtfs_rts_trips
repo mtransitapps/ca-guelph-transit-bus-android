@@ -1,29 +1,35 @@
-270300,0,'Edinburgh College',2703
-270400,0,'Paisley',2704
-270500,0,'Silvercreek',2705
-270600,0,'General Hosp',2706
-270700,0,'Eastview',2707
-270800,0,'Grange',2708
-270900,0,'College',2709
-271000,0,'Southgate',2710
-271100,0,'Woodlawn Watson',2711
-271200,0,'Watson Woodlawn',2712
-271300,0,'Route 19 Hanlon Crk',2713
-271400,0,'College Edinburgh',2714
-271500,0,'Northwest Ind',2715
-271600,0,'Westmount',2716
-271700,0,'York',2717
-271800,0,'Goodwin',2718
-272400,0,'Ironwood',2724
-272500,0,'Niska',2725
-272600,0,'Stone Rd Mall',2726
-272700,0,'Waterloo',2727
-272800,0,'NB',2728
-272801,0,'SB',2728
-272900,0,'Lite NB',2729
-272901,0,'Lite SB',2729
-273000,0,'Guelph, Beer Bus',2730
-273100,0,'Victoria Clair',2731
-273500,0,'Ironwood Harvard',2735
-273900,0,'W Hanlon Scottsdale',2739
-279400,0,'Ribfest Guelph Shuttle',2794
+100,0,'Edinburgh College',1
+200,0,'College Edinburgh',2
+300,0,'Westmount',3
+400,0,'York',4
+500,0,'Goodwin',5
+600,0,'Ironwood',6
+700,0,'Niska',7
+800,0,'Janefield',8
+900,0,'Waterloo',9
+1000,0,'Paisley',10
+1100,0,'Silvercreek',11
+1200,0,'Delhi',12
+1300,0,'Eastview',13
+1400,0,'Grange',14
+1500,0,'College',15
+1600,0,'Southgate',16
+1700,0,'Woodlawn Watson',17
+1800,0,'Watson Woodlawn',18
+1900,0,'Hanlon Crk',19
+2000,0,'Northwest Ind',20
+9800,0,'Speedvale',98
+9900,0,'NB',99
+9901,0,'SB',99
+1000400,0,'W Hanlon Scottsdale',10004
+1000500,0,'Guelph, Beer Bus',10005
+1000600,0,'Edinburgh Colonial',10006
+1000700,0,'Ironwood Harvard',10007
+1000800,0,'Sunday Late Night Service',10008
+1000900,0,'Zehrs Grocery Shuttle',10009
+1119800,0,'Lite NB',11198
+1119801,0,'Lite SB',11198
+21005000,0,'U Scottsdale',210050
+21005200,0,'U Kortright',210052
+21005600,0,'U Colonial',210056
+21005800,0,'U Edinburgh',210058
