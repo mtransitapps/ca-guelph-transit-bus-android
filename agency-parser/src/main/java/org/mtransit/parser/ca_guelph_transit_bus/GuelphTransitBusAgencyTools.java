@@ -5,13 +5,11 @@ import static org.mtransit.commons.StringUtils.EMPTY;
 
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
-import org.mtransit.commons.CharUtils;
 import org.mtransit.commons.CleanUtils;
 import org.mtransit.commons.StringUtils;
 import org.mtransit.parser.DefaultAgencyTools;
 import org.mtransit.parser.MTLog;
 import org.mtransit.parser.gtfs.data.GRoute;
-import org.mtransit.parser.gtfs.data.GStop;
 import org.mtransit.parser.mt.data.MAgency;
 
 import java.util.List;
@@ -30,11 +28,6 @@ public class GuelphTransitBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public List<Locale> getSupportedLanguages() {
 		return LANG_EN;
-	}
-
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
 	}
 
 	@NotNull
@@ -59,30 +52,36 @@ public class GuelphTransitBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public boolean useRouteShortNameForRouteId() {
-		return false; // use for GTFS-RT
+		return true;
 	}
 
 	@Nullable
 	@Override
 	public Long convertRouteIdFromShortNameNotSupported(@NotNull String routeShortName) {
-		if (COMMUNITY_BUS_RSN.equals(routeShortName)) {
+		switch (routeShortName) {
+		case COMMUNITY_BUS_RSN:
 			return COMMUNITY_BUS_RID;
-		}
-		if ("GorEdi".equals(routeShortName)) {
+		case "GorEdi":
 			return 10_001L;
-		}
-		if ("OD Sout".equals(routeShortName)
-				|| "ODSout".equals(routeShortName)) {
+		case "EdiCol":
+			return 10_006L;
+		case "OD Sout":
+		case "ODSout":
 			return 10_002L;
-		}
-		if ("VicClr".equals(routeShortName)) {
+		case "VicClr":
 			return 10_003L;
-		}
-		if ("WHanSco".equals(routeShortName)) {
+		case "WHanSco":
 			return 10_004L;
-		}
-		if ("BREW".equals(routeShortName)) {
+		case "BREW":
 			return 10_005L;
+		case "IroHarv":
+			return 10_007L;
+		case "SunLN":
+			return 10_008L;
+		case "ZehrsGS":
+			return 10_009L;
+		case "99Lite":
+			return 11_099L;
 		}
 		return super.convertRouteIdFromShortNameNotSupported(routeShortName);
 	}
