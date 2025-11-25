@@ -19,7 +19,8 @@
 1800,0,'Watson Woodlawn',18
 1900,0,'Hanlon Crk',19
 2000,0,'Northwest Ind',20
-9800,0,'Speedvale',98
+9801,0,'Guelph Central Sta P:8',98
+9800,0,'Willow @ Flaherty EB',98
 9900,0,'NB',99
 9901,0,'SB',99
 1000400,0,'W Hanlon Scottsdale',10004
@@ -31,6 +32,8 @@
 1119800,0,'Lite NB',11198
 1119801,0,'Lite SB',11198
 21005000,0,'U Scottsdale',210050
-21005200,0,'U Kortright',210052
-21005600,0,'U Colonial',210056
+21005200,0,'Edinburgh @ Rodgers SB',210052
+21005201,0,'University Ctr N Loop P:8',210052
+21005600,0,'Goodwin @ Laughland EB',210056
+21005601,0,'University Ctr S Loop P:0',210056
 21005800,0,'U Edinburgh',210058
