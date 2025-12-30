@@ -55,6 +55,7 @@ public class GuelphTransitBusAgencyTools extends DefaultAgencyTools {
 		return true;
 	}
 
+	@SuppressWarnings("SpellCheckingInspection")
 	@Nullable
 	@Override
 	public Long convertRouteIdFromShortNameNotSupported(@NotNull String routeShortName) {
@@ -65,7 +66,6 @@ public class GuelphTransitBusAgencyTools extends DefaultAgencyTools {
 			return 10_001L;
 		case "EdiCol":
 			return 10_006L;
-		case "OD Sout":
 		case "ODSout":
 			return 10_002L;
 		case "VicClr":
@@ -86,6 +86,35 @@ public class GuelphTransitBusAgencyTools extends DefaultAgencyTools {
 		return super.convertRouteIdFromShortNameNotSupported(routeShortName);
 	}
 
+	@Override
+	public @Nullable Long convertRouteIdPreviousChars(@NotNull String previousChars) {
+		switch (previousChars) {
+		case "NYE":
+			return 14_25_05_00_00L;
+		}
+		return super.convertRouteIdPreviousChars(previousChars);
+	}
+
+	@Override
+	public @Nullable Long convertRouteIdNextChars(@NotNull String nextChars) {
+		switch (nextChars) {
+		case "NE":
+			return 14_05L;
+		case "NW":
+			return 14_23L;
+		case "MW":
+			return 13_23L;
+		case "SW":
+			return 19_23L;
+		case "SE":
+			return 19_05L;
+		case "DT":
+			return 4_20L;
+
+		}
+		return super.convertRouteIdNextChars(nextChars);
+	}
+
 	private static final Pattern ALL_WHITESPACES = Pattern.compile("\\s+", Pattern.CASE_INSENSITIVE);
 
 	@NotNull
@@ -100,7 +129,7 @@ public class GuelphTransitBusAgencyTools extends DefaultAgencyTools {
 		return true;
 	}
 
-	private static final Pattern STARTS_WITH_ROUTE_RSN = Pattern.compile("(route[\\d]*[A-Z]*[\\-]?[\\s]*)", Pattern.CASE_INSENSITIVE);
+	private static final Pattern STARTS_WITH_ROUTE_RSN = Pattern.compile("(route\\d*[A-Z]*-?\\s*)", Pattern.CASE_INSENSITIVE);
 
 	@NotNull
 	@Override
@@ -109,7 +138,7 @@ public class GuelphTransitBusAgencyTools extends DefaultAgencyTools {
 		if (StringUtils.isEmpty(routeLongName)) {
 			throw new MTLog.Fatal("getRouteLongName() > Unexpected route long name name '%s'!", routeLongName);
 		}
-		return CleanUtils.cleanLabel(routeLongName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), routeLongName);
 	}
 
 	@Override
@@ -181,7 +210,7 @@ public class GuelphTransitBusAgencyTools extends DefaultAgencyTools {
 		return true;
 	}
 
-	private static final Pattern STARTS_WITH_RSN = Pattern.compile("(^[\\d]+ )", Pattern.CASE_INSENSITIVE);
+	private static final Pattern STARTS_WITH_RSN = Pattern.compile("(^\\d+ )", Pattern.CASE_INSENSITIVE);
 
 	private static final Pattern STARTS_W_COMMUNITY_BUS_ = Pattern.compile("(^(community bus|mainline) (?=(.{3,})))", Pattern.CASE_INSENSITIVE);
 
@@ -196,7 +225,7 @@ public class GuelphTransitBusAgencyTools extends DefaultAgencyTools {
 		tripHeadsign = CleanUtils.cleanNumbers(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanBounds(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanStreetTypes(tripHeadsign);
-		return CleanUtils.cleanLabel(tripHeadsign);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), tripHeadsign);
 	}
 
 	private static final Pattern CLEAN_DEPART_ARRIVE = Pattern.compile("( (arrival|depart)$)", Pattern.CASE_INSENSITIVE);
@@ -209,7 +238,7 @@ public class GuelphTransitBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.cleanBounds(gStopName);
 		gStopName = CleanUtils.cleanStreetTypes(gStopName);
 		gStopName = CleanUtils.cleanNumbers(gStopName);
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
 }
