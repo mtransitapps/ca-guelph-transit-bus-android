@@ -1,39 +1,34 @@
-1,'1','Edinburgh College','C800A1',1544065,3
-2,'2','College Edinburgh','C800A1',1544097,3
-3,'3','Westmount','91469B',1544099,3
-4,'4','York','1988B7',1544100,3
-5,'5','Goodwin','921B1E',1544101,3
-6,'6','Ironwood','ED1C24',1544128,3
-7,'7','Niska','682C91',1544129,3
-8,'8','Janefield','0082B1',1544130,3
-9,'9','Waterloo','A54686',1544131,3
-10,'10','Paisley','EC008C',1544066,3
-11,'11','Silvercreek','5C7AAE',1544067,3
-12,'12','Delhi','008290',1544068,3
-13,'13','Eastview','811167',1544069,3
-14,'14','Grange','485E88',1544070,3
-15,'15','College','8F7140',1544071,3
-16,'16','Southgate','29712A',1544072,3
-17,'17','Woodlawn Watson','CB640A',1544073,3
-18,'18','Watson Woodlawn','CB640A',1544074,3
-19,'19','Hanlon Creek','0000FF',1544096,3
-20,'20','Northwest Industrial','556940',1544098,3
-98,'98','Speedvale','B04606',1544196,3
-99,'99','Mainline','4F832E',1544132,3
-10004,'WHanSco','West Hanlon Scottsdale','0000FF',1544164,3
-10005,'BREW','Brewery Tour Charter','800000',1544134,3
-10006,'EdiCol','Edinburgh Colonial','0000FF',1544135,3
-10007,'IroHarv','Ironwood Harvard','0000FF',1544160,3
-10008,'SunLN','Sunday Late Night','0000FF',1544161,3
-10009,'ZehrsGS','Zehrs Grocery Shuttle','FF8040',1545026,3
-11198,'99Lite','99 Lite','0000FF',1544133,3
-210050,'50U','Scottsdale','FF00FF',1544102,3
-210052,'52U','Kortright','008290',1544103,3
-210056,'56U','Colonial','ED1C24',1544104,3
-210058,'58U','Edinburgh','91469B',1544105,3
-1425050426,'NYE6DT','Downtown University Shuttle','0000FF',1544191,3
-1425051326,'NYE3MW','Mid West Loop','0000FF',1544194,3
-1425051406,'NYE1NE','North East Loop','0000FF',1544165,3
-1425051425,'NYE2NW','North West Loop','0000FF',1544166,3
-1425051910,'NYE5SE','South East Loop','0000FF',1544192,3
-1425051927,'NYE4SW','South West Loop','0000FF',1544193,3
+1,'1','Edinburgh College','C800A1',1545027,3
+2,'2','College Edinburgh','C800A1',1545059,3
+3,'3','Westmount','91469B',1545061,3
+4,'4','York','1988B7',1545062,3
+5,'5','Goodwin','921B1E',1545063,3
+6,'6','Ironwood','ED1C24',1545089,3
+7,'7','Niska','682C91',1545090,3
+8,'8','Stone Road Mall','0082B1',1545091,3
+9,'9','Waterloo','A54686',1545092,3
+10,'10','Paisley','EC008C',1545028,3
+11,'11','Silvercreek','5C7AAE',1545029,3
+12,'12','Delhi','008290',1545030,3
+13,'13','Eastview','811167',1545031,3
+14,'14','Grange','485E88',1545032,3
+15,'15','College','8F7140',1545033,3
+16,'16','Southgate','29712A',1545034,3
+17,'17','Woodlawn Watson','CB640A',1545035,3
+18,'18','Watson Woodlawn','CB640A',1545057,3
+19,'19','Hanlon Creek','0000FF',1545058,3
+20,'20','Northwest Industrial','556940',1545060,3
+98,'98','Speedvale','B04606',1545093,3
+99,'99','Mainline','4F832E',1545094,3
+10004,'WHanSco','West Hanlon Scottsdale','0000FF',1545153,3
+10006,'EdiCol','Edinburgh Colonial','0000FF',1545097,3
+10007,'IroHarv','Ironwood Harvard','0000FF',1545122,3
+10008,'SunLN','Sunday Late Night','0000FF',1545151,3
+10009,'ZehrsGS','Zehrs Grocery Shuttle','FF8040',1545154,3
+10010,'HMidGCS','Hogg Midday GCS','000000',1545119,3
+10011,'HMidUC','Hogg Midday UC','000000',1545120,3
+11198,'99Lite','99 Lite','0000FF',1545095,3
+210050,'50U','Scottsdale','FF00FF',1545064,3
+210052,'52U','Kortright','008290',1545065,3
+210056,'56U','Colonial','ED1C24',1545066,3
+210058,'58U','Edinburgh','91469B',1545088,3

@@ -1,45 +1,67 @@
-100,0,'Edinburgh College',1
-200,0,'College Edinburgh',2
-300,0,'Westmount',3
-400,0,'York',4
-500,0,'Goodwin',5
-600,0,'Ironwood',6
-700,0,'Niska',7
+100,0,'Edinburgh @ Laurelwood NB',1
+101,0,'University Ctr N Loop P:9',1
+200,0,'Edinburgh @ Ironwood SB',2
+201,0,'University Ctr N Loop P:10',2
+301,0,'Guelph Central Sta P:21',3
+300,0,'Woodlawn @ Edinburgh EB',3
+401,0,'Guelph Central Sta P:2',4
+400,0,'Watson @ Guelph Transit SB',4
+500,0,'Frederick @ Waterford WB',5
+501,0,'University Ctr S Loop P:4',5
+600,0,'Ironwood @ Woodborough SB',6
+601,0,'University Ctr S Loop P:1',6
+700,0,'Ptarmigan @ Downey EB',7
+701,0,'University Ctr S Loop P:3',7
 801,0,'Guelph Central Sta P:3',8
 800,0,'Stone Rd Mall P:1',8
-900,0,'Waterloo',9
-1000,0,'Paisley',10
-1100,0,'Silvercreek',11
-1200,0,'Delhi',12
-1300,0,'Eastview',13
-1400,0,'Grange',14
-1500,0,'College',15
-1600,0,'Southgate',16
-1700,0,'Woodlawn Watson',17
-1800,0,'Watson Woodlawn',18
-1900,0,'Hanlon Crk',19
-2000,0,'Northwest Ind',20
+900,0,'Fife @ Deerfield WB',9
+901,0,'Guelph Central Sta P:6',9
+1001,0,'Guelph Central Sta P:22',10
+1000,0,'Imperial @ W End CC SB',10
+1101,0,'Guelph Central Sta P:4',11
+1100,0,'Willow @ Silvercreek EB',11
+1201,0,'Guelph Central Sta P:19',12
+1200,0,'Woodlawn @ Victoria WB',12
+1301,0,'Guelph Central Sta P:5',13
+1300,0,'Hadati @ Victoria WB',13
+1401,0,'Guelph Central Sta P:20',14
+1400,0,'Watson @ Starwood SB',14
+1500,0,'College @ Flanders NB',15
+1501,0,'University Ctr N Loop P:11',15
+1601,0,'Poppy @ Gordon WB',16
+1600,0,'Southgate SB',16
+1701,0,'University Ctr N Loop P:7',17
+1700,0,'Woodlawn Smart Ctrs SB',17
+1801,0,'University Ctr S Loop P:6',18
+1800,0,'Woodlawn Smart Ctrs SB',18
+1901,0,'Poppy @ 254 Gosling EB',19
+1900,0,'Stone Rd Mall P:3',19
+2001,0,'Guelph Central Sta P:1',20
+2000,0,'Imperial @ Galaxy Cinema NB',20
 9801,0,'Guelph Central Sta P:8',98
 9800,0,'Willow @ Flaherty EB',98
 9900,0,'NB',99
 9901,0,'SB',99
-1000400,0,'W Hanlon Scottsdale',10004
-1000500,0,'Guelph, Beer Bus',10005
-1000600,0,'Edinburgh Colonial',10006
-1000700,0,'Ironwood Harvard',10007
+1000401,0,'Guelph Central Sta P:9',10004
+1000400,0,'Stone @ Woodland Gln WB',10004
+1000600,0,'Clairfields @ Farley EB',10006
+1000601,0,'University Ctr N Loop P:9',10006
+1000701,0,'Guelph Central Sta P:11',10007
+1000700,0,'Kortright @ Ironwood EB',10007
 1000800,0,'Sunday Late Night Service',10008
-1000900,0,'Zehrs Grocery Shuttle',10009
+1000900,0,'Farley @ Zehrs SB',10009
+1000901,0,'University Ctr N Loop P:12 B',10009
+1001000,0,'Watson @ Guelph Transit SB',10010
+1001001,0,'Watson @ Guelph Transit SB',10010
+1001101,0,'Watson @ Guelph Transit SB',10011
+1001100,0,'Watson @ Guelph Transit SB',10011
 1119800,0,'Lite NB',11198
 1119801,0,'Lite SB',11198
-21005000,0,'U Scottsdale',210050
+21005000,0,'Janefield NB',210050
+21005001,0,'University Ctr S Loop P:2',210050
 21005200,0,'Edinburgh @ Rodgers SB',210052
 21005201,0,'University Ctr N Loop P:8',210052
 21005600,0,'Goodwin @ Laughland EB',210056
 21005601,0,'University Ctr S Loop P:0',210056
-21005800,0,'U Edinburgh',210058
-142505042600,0,'NYE Gordon',1425050426
-142505132600,0,'NYE Mid W',1425051326
-142505140600,0,'NYE N E',1425051406
-142505142500,0,'NYE N W',1425051425
-142505191000,0,'NYE S E',1425051910
-142505192700,0,'NYE S W',1425051927
+21005800,0,'Kortright @ Rickson EB',210058
+21005801,0,'University Ctr N Loop P:8',210058
