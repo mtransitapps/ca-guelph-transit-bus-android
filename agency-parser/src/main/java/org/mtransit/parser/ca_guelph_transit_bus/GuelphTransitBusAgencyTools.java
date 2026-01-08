@@ -80,6 +80,10 @@ public class GuelphTransitBusAgencyTools extends DefaultAgencyTools {
 			return 10_008L;
 		case "ZehrsGS":
 			return 10_009L;
+		case "HMidGCS":
+			return 10_010L;
+		case "HMidUC":
+			return 10_011L;
 		case "99Lite":
 			return 11_099L;
 		}
@@ -208,6 +212,28 @@ public class GuelphTransitBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public boolean directionFinderEnabled() {
 		return true;
+	}
+
+	@Override
+	public boolean allowNonDescriptiveHeadSigns(long routeId) {
+		if (routeId == 10_010L) { // HMidGCS
+			if (getTodayDateInt() < 2026_01_08 + 33) return true;
+		}
+		if (routeId == 10_011L) { // HMidUC
+			if (getTodayDateInt() < 2026_01_08 + 33) return true;
+		}
+		return super.allowNonDescriptiveHeadSigns(routeId);
+	}
+
+	@Override
+	public boolean removeRouteLongNameFromDirectionHeadsign() {
+		return true;
+	}
+
+	@Override
+	public @NotNull String cleanDirectionHeadsign(@Nullable GRoute gRoute, int directionId, boolean fromStopName, @NotNull String directionHeadSign) {
+		directionHeadSign = STARTS_WITH_RSN.matcher(directionHeadSign).replaceAll(EMPTY);
+		return super.cleanDirectionHeadsign(gRoute, directionId, fromStopName, directionHeadSign);
 	}
 
 	private static final Pattern STARTS_WITH_RSN = Pattern.compile("(^\\d+ )", Pattern.CASE_INSENSITIVE);
