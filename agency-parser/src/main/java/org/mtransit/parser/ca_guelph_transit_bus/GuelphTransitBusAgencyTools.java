@@ -217,10 +217,10 @@ public class GuelphTransitBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public boolean allowNonDescriptiveHeadSigns(long routeId) {
 		if (routeId == 10_010L) { // HMidGCS
-			if (getTodayDateInt() < 2026_01_08 + 33) return true;
+			if (getTodayDateInt() < 2026_01_08 + 02_00) return true;
 		}
 		if (routeId == 10_011L) { // HMidUC
-			if (getTodayDateInt() < 2026_01_08 + 33) return true;
+			if (getTodayDateInt() < 2026_01_08 + 02_00) return true;
 		}
 		return super.allowNonDescriptiveHeadSigns(routeId);
 	}
