@@ -40,8 +40,8 @@
 2000,0,'Imperial @ Galaxy Cinema NB',20
 9801,0,'Guelph Central Sta P:8',98
 9800,0,'Willow @ Flaherty EB',98
-9900,0,'NB',99
-9901,0,'SB',99
+9900,0,'Northbound',99
+9901,0,'Southbound',99
 1000401,0,'Guelph Central Sta P:9',10004
 1000400,0,'Stone @ Woodland Gln WB',10004
 1000600,0,'Clairfields @ Farley EB',10006
