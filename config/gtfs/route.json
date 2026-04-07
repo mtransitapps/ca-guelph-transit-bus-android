@@ -64,27 +64,27 @@
   "route_id_next_char_configs": [
     {
       "char": "NE",
-      "route_id_part": 1405
+      "id_part": 1405
     },
     {
       "char": "NW",
-      "route_id_part": 1423
+      "id_part": 1423
     },
     {
       "char": "MW",
-      "route_id_part": 1323
+      "id_part": 1323
     },
     {
       "char": "SW",
-      "route_id_part": 1923
+      "id_part": 1923
     },
     {
       "char": "SE",
-      "route_id_part": 1905
+      "id_part": 1905
     },
     {
       "char": "DT",
-      "route_id_part": 420
+      "id_part": 420
     }
   ],
   "route_short_name_cleaners": [
