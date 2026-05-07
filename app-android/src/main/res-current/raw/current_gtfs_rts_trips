@@ -42,26 +42,5 @@
 9800,0,'Willow @ Flaherty EB',98
 9900,0,'Northbound',99
 9901,0,'Southbound',99
-1000401,0,'Guelph Central Sta P:9',10004
-1000400,0,'Stone @ Woodland Gln WB',10004
-1000600,0,'Clairfields @ Farley EB',10006
-1000601,0,'University Ctr N Loop P:9',10006
-1000701,0,'Guelph Central Sta P:11',10007
-1000700,0,'Kortright @ Ironwood EB',10007
-1000800,0,'Sunday Late Night Service',10008
-1000900,0,'Farley @ Zehrs SB',10009
-1000901,0,'University Ctr N Loop P:12 B',10009
-1001000,0,'Watson @ Guelph Transit SB',10010
-1001001,0,'Watson @ Guelph Transit SB',10010
-1001101,0,'Watson @ Guelph Transit SB',10011
-1001100,0,'Watson @ Guelph Transit SB',10011
-1119800,0,'Lite NB',11198
-1119801,0,'Lite SB',11198
-21005000,0,'Janefield NB',210050
-21005001,0,'University Ctr S Loop P:2',210050
-21005200,0,'Edinburgh @ Rodgers SB',210052
-21005201,0,'University Ctr N Loop P:8',210052
-21005600,0,'Goodwin @ Laughland EB',210056
-21005601,0,'University Ctr S Loop P:0',210056
-21005800,0,'Kortright @ Rickson EB',210058
-21005801,0,'University Ctr N Loop P:8',210058
+1000501,0,'Guelph.Beer Bus',10005
+1000500,0,'Guelph.Beer Bus',10005

@@ -99,7 +99,6 @@
 292,'292','Gordon @ McGilvray NB',43.53096,-80.23082,0,49867
 294,'294','Gordon @ Dormie Northbound',43.53694,-80.23923,0,49869
 295,'295','Gordon @ Water Northbound',43.53807,-80.24081,0,49870
-297,'297','Wyndham @ Fountain NB',43.54337,-80.24530,0,49872
 302,'302','Woolwich @ Cardigan NB',43.54814,-80.25122,0,50549
 305,'305','Suffolk @ Glasgow Westbound',43.54554,-80.25848,0,50552
 306,'306','Yorkshire @ London NB',43.54638,-80.26175,0,50553
@@ -164,7 +163,6 @@
 394,'394','Yorkshire @ Home Southbound',43.54586,-80.26140,0,50830
 395,'395','Suffolk @ Glasgow Eastbound',43.54537,-80.25859,0,50831
 396,'396','Suffolk @ Dublin Eastbound',43.54634,-80.25668,0,50832
-397,'397','Woolwich @ Cardigan SB',43.54803,-80.25168,0,50833
 401,'401','Neeve @ Ontario Eastbound',43.54416,-80.24095,0,51509
 402,'402','Ontario @ Manitoba EB',43.54471,-80.23731,0,51510
 403,'403','Ontario @ Wood Eastbound',43.54521,-80.23469,0,51511
@@ -268,7 +266,6 @@
 919,'919','Waterloo @ St Arnaud EB',43.53361,-80.25799,0,56353
 920,'920','Waterloo @ McGee Eastbound',43.53629,-80.25511,0,56375
 922,'922','Waterloo @ Dublin Eastbound',43.54140,-80.24969,0,56377
-1001,'1001','Quebec @ Wyndham Westbound',43.54589,-80.24960,0,1507424
 1002,'1002','Paisley @ Norfolk Westbound',43.54540,-80.25289,0,1507425
 1003,'1003','Paisley @ Glasgow Westbound',43.54345,-80.25685,0,1507426
 1004,'1004','Paisley @ Yorkshire WB',43.54242,-80.25882,0,1507427
@@ -308,7 +305,6 @@
 1118,'1118','Willow @ Guelph Eastbound',43.54267,-80.27500,0,1508423
 1121,'1121','Edinburgh @ Suffolk SB',43.54228,-80.26482,0,1508447
 1122,'1122','Paisley @ Yorkshire EB',43.54247,-80.25848,0,1508448
-1130,'1130','Wyndham @ Cork Southbound',43.54562,-80.24903,0,1508477
 1131,'1131','Marksam @ Speedvale SB',43.54058,-80.29183,0,1508478
 1203,'1203','Delhi @ Eramosa Northbound',43.55343,-80.25043,0,1509348
 1204,'1204','Delhi @ Guelph General Hosp NB',43.55548,-80.25328,0,1509349
@@ -376,8 +372,6 @@
 1511,'1511','College @ Devere Eastbound',43.51719,-80.25279,0,1512260
 1512,'1512','College @ Hanlon Eastbound',43.51960,-80.24943,0,1512261
 1516,'1516','Scottsdale @ Wilsonview NB',43.52094,-80.23990,0,1512265
-1517,'1517','Wilsonview @ Edinburgh EB',43.52206,-80.23879,0,1512266
-1518,'1518','Edinburgh @ Chancellors SB',43.52145,-80.23616,0,1512267
 1519,'1519','252 Stone Eastbound',43.52165,-80.23125,0,1512268
 1520,'1520','Stone @ Research Eastbound',43.52469,-80.22717,0,1512290
 1602,'1602','Gordon @ Water Southbound',43.53830,-80.24137,0,1513191
@@ -439,21 +433,15 @@
 2037,'2037','Willow @ Alma Eastbound',43.54353,-80.27381,0,1537314
 2040,'2040','Willow @ Edinburgh EB',43.54520,-80.27152,0,1537338
 5602,'5602','1035 Victoria Southbound',43.53138,-80.19566,0,1632355
-5605,'5605','Colonial @ Lambeth NB',43.51694,-80.18084,0,1632358
-5606,'5606','Colonial @ Marsh Northbound',43.51966,-80.18459,0,1632359
-5607,'5607','Colonial @ Bard Northbound',43.52092,-80.18704,0,1632360
 5608,'5608','Gordon @ Arkell Northbound',43.51402,-80.19966,0,1632361
-5706,'5706','Ironwood @ Reid Westbound',43.51520,-80.23188,0,1633320
 5709,'5709','Stone @ Scottsdale EB',43.51617,-80.23859,0,1633323
 5806,'5806','Kortright @ Edinburgh EB',43.51432,-80.21987,0,1634281
 5807,'5807','Gordon @ Kortright NB',43.52275,-80.21382,0,1634282
 5810,'5810','Suffolk @ Dublin Westbound',43.54641,-80.25677,0,1634306
 5811,'5811','Royal Canadian Legion',43.56088,-80.20783,0,1634307
 5814,'5814','Eastview @ Auden Eastbound',43.56915,-80.23609,0,1634310
-5817,'5817','Ironwood @ Scottsdale WB',43.51315,-80.23439,0,1634313
 5820,'5820','Eramosa @ Delhi Westbound',43.55391,-80.24992,0,1634337
 5829,'5829','Imperial @ Speedvale NB',43.53676,-80.29624,0,1634346
-5830,'5830','Wyndham @ Quebec Northbound',43.54586,-80.24896,0,1634368
 5831,'5831','University Ctr S Loop P:3',43.52892,-80.22357,0,1634369
 5832,'5832','University Ctr S Loop P:5',43.52915,-80.22388,0,1634370
 5833,'5833','Guelph Central Sta P:1',43.54611,-80.24517,0,1634371
@@ -464,11 +452,8 @@
 5839,'5839','Guelph Central Sta P:6',43.54571,-80.24541,0,1634377
 5840,'5840','University Ctr S Loop P:6',43.52927,-80.22403,0,1634399
 5841,'5841','Guelph Central Sta P:21',43.54579,-80.24580,0,1634400
-5842,'5842','University Ctr S Loop P:0',43.52839,-80.22337,0,1634401
 5843,'5843','University Ctr S Loop P:1',43.52857,-80.22341,0,1634402
-5844,'5844','University Ctr S Loop P:2',43.52871,-80.22346,0,1634403
 5845,'5845','University Ctr S Loop P:4',43.52904,-80.22372,0,1634404
-5846,'5846','University Ctr N Loop P:8',43.52974,-80.22470,0,1634405
 5847,'5847','University Ctr N Loop P:11',43.53009,-80.22519,0,1634406
 5848,'5848','University Ctr N Loop P:12 A',43.53021,-80.22535,0,1634407
 5849,'5849','Guelph Central Sta P:2',43.54621,-80.24497,0,1634408
@@ -483,13 +468,9 @@
 5861,'5861','Eastview @ Watson Eastbound',43.57778,-80.22436,0,1634462
 5862,'5862','Watson @ Shackleton NB',43.57595,-80.22107,0,1634463
 5863,'5863','Elmira @ Massey Northbound',43.53449,-80.30869,0,1634464
-5882,'5882','Stone Road Mall Platform 4',43.51822,-80.23991,0,1634525
-5889,'5889','Guelph Central Sta P:9',43.54482,-80.24636,0,1634532
 5895,'5895','749 Woolwich Northbound',43.56363,-80.27532,0,1634559
 5909,'5909','Guelph Central Sta P:11',43.54465,-80.24681,0,1635245
-5910,'5910','Clairfields @ Farley EB',43.50523,-80.19227,0,1635267
 5911,'5911','Woodland Gln @ Trillium NB',43.50636,-80.23734,0,1635268
-5915,'5915','Arkell @ Victoria Westbound',43.52344,-80.18650,0,1635272
 5917,'5917','Woodlawn Smart Ctrs SB',43.56377,-80.28154,0,1635274
 5923,'5923','Woodlawn @ Arrow Eastbound',43.55330,-80.29347,0,1635301
 5924,'5924','Starwood @ Skinner NB',43.56645,-80.21390,0,1635302
@@ -501,7 +482,6 @@
 5940,'5940','W Acres @ Northwood EB',43.51946,-80.27675,0,1635360
 5941,'5941','W Acres @ Imperial EB',43.52184,-80.27365,0,1635361
 5942,'5942','Speedvale @ Conestoga College EB',43.53874,-80.29514,0,1635362
-5955,'5955','Farley @ Eugene Southbound',43.50395,-80.19027,0,1635396
 5957,'5957','Watson @ Shackleton SB',43.57575,-80.22115,0,1635398
 5958,'5958','Speedvale @ Edinburgh WB',43.55234,-80.27670,0,1635399
 5959,'5959','Edinburgh @ Burns NB',43.55545,-80.28313,0,1635400
@@ -509,10 +489,6 @@
 5963,'5963','Clair @ Clairfields WB',43.49552,-80.19566,0,1635425
 5964,'5964','Clair @ Clairfields EB',43.49558,-80.19518,0,1635426
 5965,'5965','Clairfields @ Gordon EB',43.50459,-80.19422,0,1635427
-5971,'5971','Goodwin @ Wilkie Eastbound',43.50880,-80.18085,0,1635454
-5972,'5972','Goodwin @ Laughland EB',43.51118,-80.17773,0,1635455
-5973,'5973','Farley @ Clair Southbound',43.50195,-80.18762,0,1635456
-5976,'5976','Beaver Mdw @ Goodwin NB',43.50647,-80.18317,0,1635459
 5982,'5982','College @ McGilvray EB',43.52800,-80.23804,0,1635486
 5985,'5985','Norfolk @ Liverpool SB',43.54705,-80.25390,0,1635489
 5986,'5986','College @ University WB',43.52793,-80.23832,0,1635490
@@ -524,7 +500,6 @@
 6008,'6008','Clairfields @ Paulstown EB',43.50203,-80.19811,0,1656386
 6011,'6011','Edinburgh @ Lonsdale NB',43.55354,-80.28045,0,1656410
 6013,'6013','Victoria @ MacAlister SB',43.53287,-80.19767,0,1656412
-6014,'6014','Goodwin @ Samuel Eastbound',43.51331,-80.17524,0,1656413
 6027,'6027','Edinburgh @ Wellington SB',43.53384,-80.25330,0,1656447
 6029,'6029','Imperial @ W End CC SB',43.52554,-80.28904,0,1656449
 6030,'6030','London @ Exhibition WB',43.54815,-80.25971,0,1656471
@@ -560,6 +535,9 @@
 6101,'6101','Poppy @ Gordon Westbound',43.49945,-80.18719,0,1657340
 6102,'6102','361 Southgate Westbound',43.50187,-80.21944,0,1657341
 6103,'6103','Victoria @ Decorso SB',43.52648,-80.18900,0,1657342
+6105,'6105','Fixed Gear Brewing Co',43.53760,-80.25835,0,1657344
+6106,'6106','Wellington Brewery',43.53328,-80.32107,0,1657345
+6109,'6109','Royal City Brewing Co',43.55249,-80.22480,0,1657348
 6112,'6112','Poppy @ Dallan Westbound',43.50258,-80.18196,0,1657372
 6113,'6113','Clair @ Dallan Eastbound',43.50477,-80.18288,0,1657373
 6114,'6114','Laird @ Southgate Westbound',43.49324,-80.20942,0,1657374
@@ -575,20 +553,19 @@
 6124,'6124','535 Hanlon Creek Westbound',43.49329,-80.22977,0,1657405
 6126,'6126','Downey @ Teal Northbound',43.49674,-80.23361,0,1657407
 6131,'6131','290 Hanlon Creek Southbound',43.49335,-80.22037,0,1657433
-6134,'6134','Laird @ Cooper Eastbound',43.48557,-80.21437,0,1657436
+6134,'6134','Laird @ Cooper Northbound',43.48557,-80.21437,0,1657436
 6135,'6135','Laird @ Southgate Eastbound',43.49312,-80.20911,0,1657437
 6136,'6136','Laird @ Clair Eastbound',43.49291,-80.20088,0,1657438
 6155,'6155','190 Hanlon Creek Southbound',43.49026,-80.21788,0,1657499
 6161,'6161','Grange @ Bradson Eastbound',43.56213,-80.22400,0,1657526
 6162,'6162','Grange @ Kemp Westbound',43.56186,-80.22465,0,1657527
 6169,'6169','Paisley @ Ryde Eastbound',43.52828,-80.28108,0,1657534
-6171,'6171','Guelph Central Sta P:10',43.54468,-80.24653,0,1657557
 6183,'6183','230 Hanlon Creek Southbound',43.49192,-80.21921,0,1657590
 6185,'6185','Clairfields @ Gosling EB',43.50341,-80.19627,0,1657592
 6188,'6188','Clair @ Gosling Eastbound',43.49859,-80.19114,0,1657595
 6189,'6189','Poppy @ 254 Gosling EB',43.49813,-80.18862,0,1657596
 6191,'6191','Speedvale @ Dawson WB',43.54925,-80.28098,0,1657619
-6192,'6192','249 Speedvale Westbound',43.54617,-80.28519,0,1657620
+6192,'6192','249 Speedvale Westbound',43.54629,-80.28506,0,1657620
 6193,'6193','560 Hanlon Creek Eastbound',43.49303,-80.23050,0,1657621
 6194,'6194','Downey @ Mollison SB',43.50198,-80.23911,0,1657622
 6197,'6197','Downey @ Quail Crk NB',43.49870,-80.23522,0,1657625
@@ -608,16 +585,15 @@
 6212,'6212','56 Quarterman Southbound',43.48411,-80.21102,0,1658333
 6213,'6213','Quarterman @ Laird WB',43.48266,-80.21235,0,1658334
 6214,'6214','Wellington @ Wyndham EB',43.54405,-80.24279,0,1658335
-6216,'6216','University Ctr N Loop P:12 B',43.53000,-80.22590,0,1658337
-6217,'6217','Victoria @ Owens Southbound',43.53654,-80.20276,0,1658338
+6217,'6217','Victoria @ Owens Southbound',43.53665,-80.20290,0,1658338
 6218,'6218','Woolwich @ Speedvale SB',43.55855,-80.26864,0,1658339
+6220,'6220','Victoria @ Arabella SB',43.53469,-80.20021,0,1658362
 6221,'6221','215 College Westbound',43.52302,-80.24504,0,1658363
 6222,'6222','Laird @ Kirkby Westbound',43.49399,-80.20437,0,1658364
 6223,'6223','Laird @ Kirkby Eastbound',43.49375,-80.20426,0,1658365
 6224,'6224','Speedvale @ Royal Westbound',43.53997,-80.29373,0,1658366
-6225,'6225','Speedvale @ Imperial WB',43.53719,-80.29759,0,1658367
-6226,'6226','643 Speedvale Westbound',43.53440,-80.30145,0,1658368
+6225,'6225','Speedvale @ Imperial WB',43.53680,-80.29814,0,1658367
+6226,'6226','643 Speedvale Westbound',43.53360,-80.30258,1,1658368
 6228,'6228','Speedvale @ Silvercreek EB',43.54543,-80.28597,0,1658370
 6230,'6230','Speedvale @ Dawson EB',43.55021,-80.27935,0,1658393
 6231,'6231','London @ Dublin Eastbound',43.54878,-80.25850,0,1658394
-6233,'6233','Farley @ Zehrs Southbound',43.50313,-80.18917,0,1658396
