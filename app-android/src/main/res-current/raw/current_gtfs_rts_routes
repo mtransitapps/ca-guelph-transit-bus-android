@@ -1,34 +1,23 @@
-1,'1','Edinburgh College','C800A1',1545027,3
-2,'2','College Edinburgh','C800A1',1545059,3
-3,'3','Westmount','91469B',1545061,3
-4,'4','York','1988B7',1545062,3
-5,'5','Goodwin','921B1E',1545063,3
-6,'6','Ironwood','ED1C24',1545089,3
-7,'7','Niska','682C91',1545090,3
-8,'8','Stone Road Mall','0082B1',1545091,3
-9,'9','Waterloo','A54686',1545092,3
-10,'10','Paisley','EC008C',1545028,3
-11,'11','Silvercreek','5C7AAE',1545029,3
-12,'12','Delhi','008290',1545030,3
-13,'13','Eastview','811167',1545031,3
-14,'14','Grange','485E88',1545032,3
-15,'15','College','8F7140',1545033,3
-16,'16','Southgate','29712A',1545034,3
-17,'17','Woodlawn Watson','CB640A',1545035,3
-18,'18','Watson Woodlawn','CB640A',1545057,3
-19,'19','Hanlon Creek','0000FF',1545058,3
-20,'20','Northwest Industrial','556940',1545060,3
-98,'98','Speedvale','B04606',1545093,3
-99,'99','Mainline','4F832E',1545094,3
-10004,'WHanSco','West Hanlon Scottsdale','0000FF',1545153,3
-10006,'EdiCol','Edinburgh Colonial','0000FF',1545097,3
-10007,'IroHarv','Ironwood Harvard','0000FF',1545122,3
-10008,'SunLN','Sunday Late Night','0000FF',1545151,3
-10009,'ZehrsGS','Zehrs Grocery Shuttle','FF8040',1545154,3
-10010,'HMidGCS','Hogg Midday GCS','000000',1545119,3
-10011,'HMidUC','Hogg Midday UC','000000',1545120,3
-11198,'99Lite','99 Lite','0000FF',1545095,3
-210050,'50U','Scottsdale','FF00FF',1545064,3
-210052,'52U','Kortright','008290',1545065,3
-210056,'56U','Colonial','ED1C24',1545066,3
-210058,'58U','Edinburgh','91469B',1545088,3
+1,'1','Edinburgh College','C800A1',1545934,3
+2,'2','College Edinburgh','C800A1',1545987,3
+3,'3','Westmount','91469B',1545989,3
+4,'4','York','1988B7',1545990,3
+5,'5','Goodwin','921B1E',1545991,3
+6,'6','Ironwood','ED1C24',1545996,3
+7,'7','Niska','682C91',1546018,3
+8,'8','Stone Road Mall','0082B1',1546019,3
+9,'9','Waterloo','A54686',1546020,3
+10,'10','Paisley','EC008C',1546082,3
+11,'11','Silvercreek','5C7AAE',1545957,3
+12,'12','Delhi','008290',1545958,3
+13,'13','Eastview','811167',1545959,3
+14,'14','Grange','485E88',1545960,3
+15,'15','College','8F7140',1545961,3
+16,'16','Southgate','29712A',1545962,3
+17,'17','Woodlawn Watson','CB640A',1545963,3
+18,'18','Watson Woodlawn','CB640A',1545964,3
+19,'19','Hanlon Creek','0000FF',1545965,3
+20,'20','Northwest Industrial','556940',1545988,3
+98,'98','Speedvale','B04606',1546021,3
+99,'99','Mainline','4F832E',1546022,3
+10005,'BREW','Brewery Tour Charter','000000',1546113,3
