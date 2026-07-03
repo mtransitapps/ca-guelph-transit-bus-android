@@ -51,6 +51,30 @@
       "route_id": 10011
     },
     {
+      "route_short_name": "CDayMW",
+      "route_id": 10012
+    },
+    {
+      "route_short_name": "CDayN",
+      "route_id": 10013
+    },
+    {
+      "route_short_name": "CDayNE",
+      "route_id": 10014
+    },
+    {
+      "route_short_name": "CDayNW",
+      "route_id": 10015
+    },
+    {
+      "route_short_name": "CdaySE",
+      "route_id": 10016
+    },
+    {
+      "route_short_name": "CDaySW",
+      "route_id": 10017
+    },
+    {
       "route_short_name": "99Lite",
       "route_id": 11099
     }

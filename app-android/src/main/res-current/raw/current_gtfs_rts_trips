@@ -42,5 +42,23 @@
 9800,0,'Willow @ Flaherty EB',98
 9900,0,'Northbound',99
 9901,0,'Southbound',99
+1000401,0,'Guelph Central Sta P:9',10004
+1000400,0,'Stone @ Woodland Gln WB',10004
 1000501,0,'Guelph.Beer Bus',10005
 1000500,0,'Guelph.Beer Bus',10005
+1000600,0,'Clairfields @ Farley EB',10006
+1000601,0,'University Ctr N Loop P:9',10006
+1000701,0,'Guelph Central Sta P:11',10007
+1000700,0,'Kortright @ Ironwood EB',10007
+1001200,0,'Fife @ Deerfield WB',10012
+1001201,0,'Guelph Central Sta P:1',10012
+1001301,0,'Guelph Central Sta P:2',10013
+1001300,0,'Willow @ Silvercreek WB',10013
+1001401,0,'Guelph Central Sta P:21',10014
+1001400,0,'Woodlawn @ Victoria WB',10014
+1001501,0,'Guelph Central Sta P:22',10015
+1001500,0,'Woodlawn @ Royal WB',10015
+1001600,0,'Goodwin @ Laughland EB',10016
+1001601,0,'University Ctr S Loop P:4',10016
+1001700,0,'Janefield @ Mason NB',10017
+1001701,0,'University Ctr S Loop P:6',10017
