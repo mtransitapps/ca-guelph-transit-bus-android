@@ -99,6 +99,7 @@
 292,'292','Gordon @ McGilvray NB',43.53096,-80.23082,0,49867
 294,'294','Gordon @ Dormie Northbound',43.53694,-80.23923,0,49869
 295,'295','Gordon @ Water Northbound',43.53807,-80.24081,0,49870
+297,'297','Wyndham @ Fountain NB',43.54337,-80.24530,0,49872
 302,'302','Woolwich @ Cardigan NB',43.54814,-80.25122,0,50549
 305,'305','Suffolk @ Glasgow Westbound',43.54554,-80.25848,0,50552
 306,'306','Yorkshire @ London NB',43.54638,-80.26175,0,50553
@@ -163,6 +164,7 @@
 394,'394','Yorkshire @ Home Southbound',43.54586,-80.26140,0,50830
 395,'395','Suffolk @ Glasgow Eastbound',43.54537,-80.25859,0,50831
 396,'396','Suffolk @ Dublin Eastbound',43.54634,-80.25668,0,50832
+397,'397','Woolwich @ Cardigan SB',43.54803,-80.25168,0,50833
 401,'401','Neeve @ Ontario Eastbound',43.54416,-80.24095,0,51509
 402,'402','Ontario @ Manitoba EB',43.54471,-80.23731,0,51510
 403,'403','Ontario @ Wood Eastbound',43.54521,-80.23469,0,51511
@@ -266,6 +268,7 @@
 919,'919','Waterloo @ St Arnaud EB',43.53361,-80.25799,0,56353
 920,'920','Waterloo @ McGee Eastbound',43.53629,-80.25511,0,56375
 922,'922','Waterloo @ Dublin Eastbound',43.54140,-80.24969,0,56377
+1001,'1001','Quebec @ Wyndham Westbound',43.54589,-80.24960,0,1507424
 1002,'1002','Paisley @ Norfolk Westbound',43.54540,-80.25289,0,1507425
 1003,'1003','Paisley @ Glasgow Westbound',43.54345,-80.25685,0,1507426
 1004,'1004','Paisley @ Yorkshire WB',43.54242,-80.25882,0,1507427
@@ -305,6 +308,7 @@
 1118,'1118','Willow @ Guelph Eastbound',43.54267,-80.27500,0,1508423
 1121,'1121','Edinburgh @ Suffolk SB',43.54228,-80.26482,0,1508447
 1122,'1122','Paisley @ Yorkshire EB',43.54247,-80.25848,0,1508448
+1130,'1130','Wyndham @ Cork Southbound',43.54562,-80.24903,0,1508477
 1131,'1131','Marksam @ Speedvale SB',43.54058,-80.29183,0,1508478
 1203,'1203','Delhi @ Eramosa Northbound',43.55343,-80.25043,0,1509348
 1204,'1204','Delhi @ Guelph General Hosp NB',43.55548,-80.25328,0,1509349
@@ -571,6 +575,7 @@
 6161,'6161','Grange @ Bradson Eastbound',43.56213,-80.22400,0,1657526
 6162,'6162','Grange @ Kemp Westbound',43.56186,-80.22465,0,1657527
 6169,'6169','Paisley @ Ryde Eastbound',43.52828,-80.28108,0,1657534
+6171,'6171','Guelph Central Sta P:10',43.54468,-80.24653,0,1657557
 6183,'6183','230 Hanlon Creek Southbound',43.49192,-80.21921,0,1657590
 6185,'6185','Clairfields @ Gosling EB',43.50341,-80.19627,0,1657592
 6188,'6188','Clair @ Gosling Eastbound',43.49859,-80.19114,0,1657595
@@ -578,7 +583,7 @@
 6191,'6191','Speedvale @ Dawson WB',43.54925,-80.28098,0,1657619
 6192,'6192','249 Speedvale Westbound',43.54629,-80.28506,0,1657620
 6193,'6193','560 Hanlon Creek Eastbound',43.49303,-80.23050,0,1657621
-6194,'6194','Downey @ Mollison SB',43.50198,-80.23911,0,1657622
+6194,'6194','Downey @ Mollison Pk SB',43.50198,-80.23911,0,1657622
 6197,'6197','Downey @ Quail Crk NB',43.49870,-80.23522,0,1657625
 6198,'6198','Woodland Gln @ Bridlewood WB',43.50728,-80.24067,0,1657626
 6199,'6199','Woodland Gln @ Woodland Gln Pk NB',43.50809,-80.24494,0,1657627
