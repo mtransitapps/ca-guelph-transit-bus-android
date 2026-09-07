@@ -16,11 +16,11 @@
 800,0,'Stone Rd Mall P:1',8
 900,0,'Fife @ Deerfield WB',9
 901,0,'Guelph Central Sta P:6',9
-1001,0,'Guelph Central Sta P:22',10
+1001,0,'Guelph Central Sta P:19',10
 1000,0,'Imperial @ W End CC SB',10
 1101,0,'Guelph Central Sta P:4',11
 1100,0,'Willow @ Silvercreek EB',11
-1201,0,'Guelph Central Sta P:19',12
+1201,0,'Guelph Central Sta P:1',12
 1200,0,'Woodlawn @ Victoria WB',12
 1301,0,'Guelph Central Sta P:5',13
 1300,0,'Hadati @ Victoria WB',13
@@ -36,7 +36,7 @@
 1800,0,'Woodlawn Smart Ctrs SB',18
 1901,0,'Poppy @ 254 Gosling EB',19
 1900,0,'Stone Rd Mall P:3',19
-2001,0,'Guelph Central Sta P:1',20
+2001,0,'Guelph Central Sta P:21',20
 2000,0,'Imperial @ Galaxy Cinema NB',20
 9801,0,'Guelph Central Sta P:8',98
 9800,0,'Willow @ Flaherty EB',98
@@ -50,5 +50,16 @@
 1000601,0,'University Ctr N Loop P:9',10006
 1000701,0,'Guelph Central Sta P:11',10007
 1000700,0,'Kortright @ Ironwood EB',10007
+1000800,0,'Sunday Late Night Service',10008
+1001800,0,'E Ring @ Dundas SB',10018
+1001801,0,'Gordon @ Lowes SB',10018
 1119800,0,'Lite NB',11198
 1119801,0,'Lite SB',11198
+21005000,0,'Janefield NB',210050
+21005001,0,'University Ctr S Loop P:2',210050
+21005200,0,'Edinburgh @ Rodgers SB',210052
+21005201,0,'University Ctr N Loop P:8',210052
+21005600,0,'Goodwin @ Laughland EB',210056
+21005601,0,'University Ctr S Loop P:0',210056
+21005800,0,'Kortright @ Rickson EB',210058
+21005801,0,'University Ctr N Loop P:8',210058
