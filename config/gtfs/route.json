@@ -139,10 +139,11 @@
     }
   ],
   "allow_non_descriptive_head_signs_until": {
-    "10005": "20260907",
+    "10005": "20270908",
     "10010": "20260608",
     "10011": "20260608"
   },
+  "allow_non_descriptive_head_signs_until_10005_comment": "BREW: Guelph.Beer Bus",
   "stop_name_cleaners": [
     {
       "regex": "( (arrival|depart)$)",
