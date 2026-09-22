@@ -36,7 +36,7 @@
 1800,0,'Woodlawn Smart Ctrs SB',18
 1901,0,'Poppy @ 254 Gosling EB',19
 1900,0,'Stone Rd Mall P:3',19
-2001,0,'Guelph Central Sta P:21',20
+2001,0,'Guelph Central Sta P:22',20
 2000,0,'Imperial @ Galaxy Cinema NB',20
 9801,0,'Guelph Central Sta P:8',98
 9800,0,'Willow @ Flaherty EB',98
@@ -50,7 +50,8 @@
 1000601,0,'University Ctr N Loop P:9',10006
 1000701,0,'Guelph Central Sta P:11',10007
 1000700,0,'Kortright @ Ironwood EB',10007
-1000800,0,'Sunday Late Night Service',10008
+1000800,0,'University Ctr N Loop P:10',10008
+1000801,0,'University Ctr N Loop P:11',10008
 1001800,0,'E Ring @ Dundas SB',10018
 1001801,0,'Gordon @ Lowes SB',10018
 1119800,0,'Lite NB',11198
